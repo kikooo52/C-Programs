@@ -1,0 +1,12 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\4.NumberReminder\bin\Debug\4.NumberReminder.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\4.NumberReminder\bin\Debug\4.NumberReminder.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\4.NumberReminder\bin\Debug\4.NumberReminder.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\4.NumberReminder\obj\Debug\4.NumberReminder.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\4.NumberReminder\obj\Debug\4.NumberReminder.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\4.NumberReminder\obj\Debug\4.NumberReminder.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\4.ConsoleInputOutput\4.NumberReminder\bin\Debug\4.NumberReminder.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\4.ConsoleInputOutput\4.NumberReminder\obj\Debug\4.NumberReminder.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\4.ConsoleInputOutput\4.NumberReminder\obj\Debug\4.NumberReminder.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\4.ConsoleInputOutput\4.NumberReminder\bin\Debug\4.NumberReminder.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\4.ConsoleInputOutput\4.NumberReminder\bin\Debug\4.NumberReminder.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\4.ConsoleInputOutput\4.NumberReminder\obj\Debug\4.NumberReminder.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\ForEach\bin\Debug\ForEach.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\ForEach\bin\Debug\ForEach.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\ForEach\bin\Debug\ForEach.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\ForEach\obj\Debug\ForEach.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\ForEach\obj\Debug\ForEach.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\ForEach\obj\Debug\ForEach.pdb

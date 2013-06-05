@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\2.NumbersDivisibleBy-3-And-7\bin\Debug\2.NumbersDivisibleBy-3-And-7.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\2.NumbersDivisibleBy-3-And-7\bin\Debug\2.NumbersDivisibleBy-3-And-7.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\2.NumbersDivisibleBy-3-And-7\bin\Debug\2.NumbersDivisibleBy-3-And-7.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\2.NumbersDivisibleBy-3-And-7\obj\Debug\2.NumbersDivisibleBy-3-And-7.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\2.NumbersDivisibleBy-3-And-7\obj\Debug\2.NumbersDivisibleBy-3-And-7.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\2.NumbersDivisibleBy-3-And-7\obj\Debug\2.NumbersDivisibleBy-3-And-7.csprojResolveAssemblyReference.cache

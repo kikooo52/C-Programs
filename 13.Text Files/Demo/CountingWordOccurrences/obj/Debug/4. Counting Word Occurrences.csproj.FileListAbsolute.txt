@@ -1,0 +1,4 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13\CountingWordOccurrences\bin\Debug\CountingWordOccurrences.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13\CountingWordOccurrences\bin\Debug\CountingWordOccurrences.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13\CountingWordOccurrences\obj\Debug\CountingWordOccurrences.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13\CountingWordOccurrences\obj\Debug\CountingWordOccurrences.pdb

@@ -1,0 +1,15 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\2.InformationWhitConstructro\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\2.InformationWhitConstructro\bin\Debug\ConsoleApplication1.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\2.InformationWhitConstructro\bin\Debug\ConsoleApplication1.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\2.InformationWhitConstructro\obj\Debug\ConsoleApplication1.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\2.InformationWhitConstructro\obj\Debug\ConsoleApplication1.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\2.InformationWhitConstructro\obj\Debug\2.InformationWhitConstructror.csprojResolveAssemblyReference.cache
+C:\Users\ognyan.dimitrov\Dropbox\Ogi (2)\1.InformationForMobile\2.InformationWhitConstructro\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\ognyan.dimitrov\Dropbox\Ogi (2)\1.InformationForMobile\2.InformationWhitConstructro\obj\Debug\ConsoleApplication1.exe
+C:\Users\ognyan.dimitrov\Dropbox\Ogi (2)\1.InformationForMobile\2.InformationWhitConstructro\obj\Debug\ConsoleApplication1.pdb
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\2.InformationWhitConstructro\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\2.InformationWhitConstructro\obj\Debug\ConsoleApplication1.exe
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\2.InformationWhitConstructro\obj\Debug\ConsoleApplication1.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\1.Defining-Classes-Part-I\1.InformationForMobile\2.InformationWhitConstructro\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\1.Defining-Classes-Part-I\1.InformationForMobile\2.InformationWhitConstructro\obj\Debug\ConsoleApplication1.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\1.Defining-Classes-Part-I\1.InformationForMobile\2.InformationWhitConstructro\obj\Debug\ConsoleApplication1.pdb

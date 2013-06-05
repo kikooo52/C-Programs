@@ -1,0 +1,9 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\8.GCD\bin\Debug\8.GCD.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\8.GCD\obj\Debug\8.GCD.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\8.GCD\obj\Debug\8.GCD.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\8.GCD\bin\Debug\8.GCD.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\8.GCD\bin\Debug\8.GCD.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\8.GCD\obj\Debug\problem1.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\IzpitProgram\Problem1\bin\Debug\8.GCD.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\IzpitProgram\Problem1\obj\Debug\8.GCD.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\IzpitProgram\Problem1\obj\Debug\8.GCD.pdb

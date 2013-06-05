@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\3.MatrixOfStringsOfSizeNxM\bin\Debug\3.MatrixOfStringsOfSizeNxM.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\3.MatrixOfStringsOfSizeNxM\bin\Debug\3.MatrixOfStringsOfSizeNxM.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\3.MatrixOfStringsOfSizeNxM\bin\Debug\3.MatrixOfStringsOfSizeNxM.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\3.MatrixOfStringsOfSizeNxM\obj\Debug\3.MatrixOfStringsOfSizeNxM.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\3.MatrixOfStringsOfSizeNxM\obj\Debug\3.MatrixOfStringsOfSizeNxM.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\3.MatrixOfStringsOfSizeNxM\obj\Debug\3.MatrixOfStringsOfSizeNxM.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\BitValue\bin\Debug\BitValue.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\BitValue\bin\Debug\BitValue.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\BitValue\bin\Debug\BitValue.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\BitValue\obj\Debug\BitValue.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\BitValue\obj\Debug\BitValue.pdb

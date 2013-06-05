@@ -1,0 +1,8 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\Area\bin\Debug\Area.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\Area\obj\Debug\Area.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\Area\obj\Debug\Area.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\3.Area\bin\Debug\Area.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\3.Area\obj\Debug\Area.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\3.Area\obj\Debug\Area.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\3.Area\bin\Debug\Area.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\3.Area\bin\Debug\Area.pdb

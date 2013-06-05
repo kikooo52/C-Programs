@@ -1,0 +1,4 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\4.HexValue\obj\x86\Debug\HexValue.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\4.HexValue\obj\x86\Debug\HexValue.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\4.HexValue\bin\Debug\HexValue.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\4.HexValue\bin\Debug\HexValue.pdb

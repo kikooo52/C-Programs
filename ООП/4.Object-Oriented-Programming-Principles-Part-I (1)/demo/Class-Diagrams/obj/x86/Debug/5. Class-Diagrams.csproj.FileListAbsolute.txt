@@ -1,0 +1,4 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Class-Diagrams\bin\Debug\Class-Diagrams.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Class-Diagrams\bin\Debug\Class-Diagrams.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Class-Diagrams\obj\x86\Debug\Class-Diagrams.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Class-Diagrams\obj\x86\Debug\Class-Diagrams.pdb

@@ -1,0 +1,7 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\UnitTestProject1\bin\Debug\1.MethodThatAsksTheUser.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\UnitTestProject1\bin\Debug\1.MethodThatAsksTheUser.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

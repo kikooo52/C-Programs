@@ -1,0 +1,4 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\First-Example\bin\Debug\FirsExample.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\First-Example\bin\Debug\FirsExample.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\First-Example\obj\Debug\FirsExample.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\First-Example\obj\Debug\FirsExample.pdb

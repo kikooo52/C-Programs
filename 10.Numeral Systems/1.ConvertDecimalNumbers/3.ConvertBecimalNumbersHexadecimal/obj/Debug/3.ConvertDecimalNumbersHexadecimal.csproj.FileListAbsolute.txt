@@ -1,0 +1,3 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\3.ConvertBecimalNumbersHexadecimal\bin\Debug\3.ConvertBecimalNumbersHexadecimal.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\3.ConvertBecimalNumbersHexadecimal\obj\Debug\3.ConvertBecimalNumbersHexadecimal.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\3.ConvertBecimalNumbersHexadecimal\obj\Debug\3.ConvertBecimalNumbersHexadecimal.pdb

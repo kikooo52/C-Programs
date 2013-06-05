@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\PrimeFor\bin\Debug\PrimeFor.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\PrimeFor\bin\Debug\PrimeFor.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\PrimeFor\bin\Debug\PrimeFor.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\PrimeFor\obj\Debug\PrimeFor.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\PrimeFor\obj\Debug\PrimeFor.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\PrimeFor\obj\Debug\PrimeFor.pdb

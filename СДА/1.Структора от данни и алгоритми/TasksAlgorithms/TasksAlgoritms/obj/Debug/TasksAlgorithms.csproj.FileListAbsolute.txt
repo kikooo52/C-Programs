@@ -1,0 +1,9 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\1.Структора от данни и алгоритми\TasksAlgoritms\TasksAlgoritms\bin\Debug\TasksAlgorithms.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\1.Структора от данни и алгоритми\TasksAlgoritms\TasksAlgoritms\bin\Debug\TasksAlgorithms.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\1.Структора от данни и алгоритми\TasksAlgoritms\TasksAlgoritms\bin\Debug\TasksAlgorithms.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\1.Структора от данни и алгоритми\TasksAlgoritms\TasksAlgoritms\obj\Debug\TasksAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\1.Структора от данни и алгоритми\TasksAlgoritms\TasksAlgoritms\obj\Debug\TasksAlgorithms.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\1.Структора от данни и алгоритми\TasksAlgoritms\TasksAlgoritms\obj\Debug\TasksAlgorithms.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\1.Структора от данни и алгоритми\TasksAlgorithms\TasksAlgoritms\bin\Debug\TasksAlgorithms.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\1.Структора от данни и алгоритми\TasksAlgorithms\TasksAlgoritms\obj\Debug\TasksAlgorithms.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\1.Структора от данни и алгоритми\TasksAlgorithms\TasksAlgoritms\obj\Debug\TasksAlgorithms.pdb

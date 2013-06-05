@@ -1,0 +1,4 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\Exception-Handling-Demos\ExceptionsProperties\bin\Debug\ExceptionsProperties.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\Exception-Handling-Demos\ExceptionsProperties\bin\Debug\ExceptionsProperties.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\Exception-Handling-Demos\ExceptionsProperties\obj\Debug\ExceptionsProperties.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\Exception-Handling-Demos\ExceptionsProperties\obj\Debug\ExceptionsProperties.pdb

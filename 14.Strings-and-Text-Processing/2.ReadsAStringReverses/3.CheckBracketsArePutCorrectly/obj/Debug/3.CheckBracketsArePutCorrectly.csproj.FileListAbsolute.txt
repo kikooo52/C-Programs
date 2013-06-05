@@ -1,0 +1,12 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\3.CheckBracketsArePutCorrectly\bin\Debug\3.CheckBracketsArePutCorrectly.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\3.CheckBracketsArePutCorrectly\bin\Debug\3.CheckBracketsArePutCorrectly.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\3.CheckBracketsArePutCorrectly\bin\Debug\3.CheckBracketsArePutCorrectly.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\3.CheckBracketsArePutCorrectly\obj\Debug\3.CheckBracketsArePutCorrectly.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\3.CheckBracketsArePutCorrectly\obj\Debug\3.CheckBracketsArePutCorrectly.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\3.CheckBracketsArePutCorrectly\obj\Debug\3.CheckBracketsArePutCorrectly.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\3.CheckBracketsArePutCorrectly\bin\Debug\3.CheckBracketsArePutCorrectly.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\3.CheckBracketsArePutCorrectly\obj\Debug\3.CheckBracketsArePutCorrectly.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\3.CheckBracketsArePutCorrectly\obj\Debug\3.CheckBracketsArePutCorrectly.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\3.CheckBracketsArePutCorrectly\bin\Debug\3.CheckBracketsArePutCorrectly.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\3.CheckBracketsArePutCorrectly\bin\Debug\3.CheckBracketsArePutCorrectly.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\3.CheckBracketsArePutCorrectly\obj\Debug\3.CheckBracketsArePutCorrectly.csprojResolveAssemblyReference.cache

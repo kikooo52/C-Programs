@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\Exception-Handling-Demos\HandlingExceptions\bin\Debug\HandlingExceptions.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\Exception-Handling-Demos\HandlingExceptions\bin\Debug\HandlingExceptions.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\Exception-Handling-Demos\HandlingExceptions\obj\Debug\1. Handling Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\Exception-Handling-Demos\HandlingExceptions\obj\Debug\HandlingExceptions.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\Exception-Handling-Demos\HandlingExceptions\obj\Debug\HandlingExceptions.pdb

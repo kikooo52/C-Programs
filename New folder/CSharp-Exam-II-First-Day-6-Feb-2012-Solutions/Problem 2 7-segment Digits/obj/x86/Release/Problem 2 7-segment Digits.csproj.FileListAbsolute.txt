@@ -1,0 +1,4 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\New folder\CSharp-Exam-II-First-Day-6-Feb-2012-Solutions\Problem 2 7-segment Digits\bin\Release\Problem 2 7-segment Digits.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\New folder\CSharp-Exam-II-First-Day-6-Feb-2012-Solutions\Problem 2 7-segment Digits\bin\Release\Problem 2 7-segment Digits.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\New folder\CSharp-Exam-II-First-Day-6-Feb-2012-Solutions\Problem 2 7-segment Digits\obj\x86\Release\Problem 2 7-segment Digits.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\New folder\CSharp-Exam-II-First-Day-6-Feb-2012-Solutions\Problem 2 7-segment Digits\obj\x86\Release\Problem 2 7-segment Digits.pdb

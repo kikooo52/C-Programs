@@ -1,0 +1,12 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\6.IPhone4S\bin\Debug\6.IPhone4S.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\6.IPhone4S\obj\Debug\6.IPhone4S.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\6.IPhone4S\bin\Debug\6.IPhone4S.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\6.IPhone4S\bin\Debug\6.IPhone4S.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\6.IPhone4S\obj\Debug\6.IPhone4S.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\6.IPhone4S\obj\Debug\6.IPhone4S.pdb
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\6.IPhone4S\bin\Debug\6.IPhone4S.exe.config
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\6.IPhone4S\obj\Debug\6.IPhone4S.exe
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\6.IPhone4S\obj\Debug\6.IPhone4S.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\1.Defining-Classes-Part-I\1.InformationForMobile\6.IPhone4S\bin\Debug\6.IPhone4S.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\1.Defining-Classes-Part-I\1.InformationForMobile\6.IPhone4S\obj\Debug\6.IPhone4S.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\1.Defining-Classes-Part-I\1.InformationForMobile\6.IPhone4S\obj\Debug\6.IPhone4S.pdb

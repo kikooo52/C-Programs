@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\3.ReturnsTheLastDigitAsAnEnglishWord\bin\Debug\3.ReturnsTheLastDigitAsAnEnglishWord.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\3.ReturnsTheLastDigitAsAnEnglishWord\bin\Debug\3.ReturnsTheLastDigitAsAnEnglishWord.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\3.ReturnsTheLastDigitAsAnEnglishWord\bin\Debug\3.ReturnsTheLastDigitAsAnEnglishWord.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\3.ReturnsTheLastDigitAsAnEnglishWord\obj\Debug\3.ReturnsTheLastDigitAsAnEnglishWord.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\3.ReturnsTheLastDigitAsAnEnglishWord\obj\Debug\3.ReturnsTheLastDigitAsAnEnglishWord.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\3.ReturnsTheLastDigitAsAnEnglishWord\obj\Debug\3.ReturnsTheLastDigitAsAnEnglishWord.pdb

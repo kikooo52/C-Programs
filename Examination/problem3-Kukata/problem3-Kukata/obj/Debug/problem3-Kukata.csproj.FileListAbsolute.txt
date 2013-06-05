@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\problem3-Kukata\problem3-Kukata\bin\Debug\problem3-Kukata.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\problem3-Kukata\problem3-Kukata\bin\Debug\problem3-Kukata.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\problem3-Kukata\problem3-Kukata\bin\Debug\problem3-Kukata.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\problem3-Kukata\problem3-Kukata\obj\Debug\problem3-Kukata.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\problem3-Kukata\problem3-Kukata\obj\Debug\problem3-Kukata.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\problem3-Kukata\problem3-Kukata\obj\Debug\problem3-Kukata.pdb

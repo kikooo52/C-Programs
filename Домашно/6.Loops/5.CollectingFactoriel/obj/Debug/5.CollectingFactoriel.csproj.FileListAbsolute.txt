@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\5.CollectingFactoriel\bin\Debug\5.CollectingFactoriel.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\5.CollectingFactoriel\bin\Debug\5.CollectingFactoriel.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\5.CollectingFactoriel\bin\Debug\5.CollectingFactoriel.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\5.CollectingFactoriel\obj\Debug\5.CollectingFactoriel.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\5.CollectingFactoriel\obj\Debug\5.CollectingFactoriel.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\5.CollectingFactoriel\obj\Debug\5.CollectingFactoriel.csprojResolveAssemblyReference.cache

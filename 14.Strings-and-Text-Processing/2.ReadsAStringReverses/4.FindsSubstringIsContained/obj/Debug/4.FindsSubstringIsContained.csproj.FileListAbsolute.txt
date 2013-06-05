@@ -1,0 +1,9 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\4.FindsSubstringIsContained\bin\Debug\4.FindsSubstringIsContained.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\4.FindsSubstringIsContained\bin\Debug\4.FindsSubstringIsContained.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\4.FindsSubstringIsContained\bin\Debug\4.FindsSubstringIsContained.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\4.FindsSubstringIsContained\obj\Debug\4.FindsSubstringIsContained.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\4.FindsSubstringIsContained\obj\Debug\4.FindsSubstringIsContained.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\4.FindsSubstringIsContained\obj\Debug\4.FindsSubstringIsContained.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\4.FindsSubstringIsContained\bin\Debug\4.FindsSubstringIsContained.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\4.FindsSubstringIsContained\obj\Debug\4.FindsSubstringIsContained.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\4.FindsSubstringIsContained\obj\Debug\4.FindsSubstringIsContained.pdb

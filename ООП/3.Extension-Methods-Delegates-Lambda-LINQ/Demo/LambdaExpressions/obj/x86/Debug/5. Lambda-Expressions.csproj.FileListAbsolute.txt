@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\Demo\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\Demo\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\Demo\LambdaExpressions\obj\x86\Debug\5. Lambda-Expressions.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\Demo\LambdaExpressions\obj\x86\Debug\LambdaExpressions.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\Demo\LambdaExpressions\obj\x86\Debug\LambdaExpressions.pdb

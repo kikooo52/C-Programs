@@ -1,0 +1,7 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.MethodThatAsksTheUser\1.MethodThatAsksTheUser\bin\Debug\1.MethodThatAsksTheUser.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\1.MethodThatAsksTheUser\bin\Debug\1.MethodThatAsksTheUser.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\1.MethodThatAsksTheUser\bin\Debug\1.MethodThatAsksTheUser.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\1.MethodThatAsksTheUser\bin\Debug\1.MethodThatAsksTheUser.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\1.MethodThatAsksTheUser\obj\Debug\1.MethodThatAsksTheUser.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\1.MethodThatAsksTheUser\obj\Debug\1.MethodThatAsksTheUser.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\1.MethodThatAsksTheUser\obj\Debug\1.MethodThatAsksTheUser.pdb

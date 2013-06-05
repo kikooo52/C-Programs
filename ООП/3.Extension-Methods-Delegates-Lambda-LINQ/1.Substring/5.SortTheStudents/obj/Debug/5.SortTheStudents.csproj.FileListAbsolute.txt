@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\5.SortTheStudents\bin\Debug\5.SortTheStudents.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\5.SortTheStudents\bin\Debug\5.SortTheStudents.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\5.SortTheStudents\bin\Debug\5.SortTheStudents.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\5.SortTheStudents\obj\Debug\5.SortTheStudents.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\5.SortTheStudents\obj\Debug\5.SortTheStudents.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\5.SortTheStudents\obj\Debug\5.SortTheStudents.pdb

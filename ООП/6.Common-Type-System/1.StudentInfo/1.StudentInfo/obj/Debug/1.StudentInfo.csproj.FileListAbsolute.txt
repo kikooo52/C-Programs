@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\6.Common-Type-System\1.StudentInfo\1.StudentInfo\bin\Debug\1.StudentInfo.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\6.Common-Type-System\1.StudentInfo\1.StudentInfo\obj\Debug\1.StudentInfo.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\6.Common-Type-System\1.StudentInfo\1.StudentInfo\bin\Debug\1.StudentInfo.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\6.Common-Type-System\1.StudentInfo\1.StudentInfo\bin\Debug\1.StudentInfo.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\6.Common-Type-System\1.StudentInfo\1.StudentInfo\obj\Debug\1.StudentInfo.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\6.Common-Type-System\1.StudentInfo\1.StudentInfo\obj\Debug\1.StudentInfo.pdb

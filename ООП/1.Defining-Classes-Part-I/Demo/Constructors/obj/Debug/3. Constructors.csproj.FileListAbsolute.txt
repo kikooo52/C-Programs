@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\Demo\Constructors\bin\Debug\Constructors.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\Demo\Constructors\bin\Debug\Constructors.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\Demo\Constructors\obj\Debug\3. Constructors.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\Demo\Constructors\obj\Debug\Constructors.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\Demo\Constructors\obj\Debug\Constructors.pdb

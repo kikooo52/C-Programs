@@ -1,0 +1,4 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\5.UniCode\obj\x86\Debug\UniCode.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\5.UniCode\obj\x86\Debug\UniCode.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\5.UniCode\bin\Debug\UniCode.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\5.UniCode\bin\Debug\UniCode.pdb

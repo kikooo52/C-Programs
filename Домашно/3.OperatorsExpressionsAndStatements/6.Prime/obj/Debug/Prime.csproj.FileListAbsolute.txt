@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\Prime\bin\Debug\Prime.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\Prime\bin\Debug\Prime.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\Prime\bin\Debug\Prime.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\Prime\obj\Debug\Prime.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\Prime\obj\Debug\Prime.pdb

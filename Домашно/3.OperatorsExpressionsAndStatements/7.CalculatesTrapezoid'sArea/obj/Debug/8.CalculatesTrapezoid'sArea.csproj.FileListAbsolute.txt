@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\7.CalculatesTrapezoid'sArea\bin\Debug\7.CalculatesTrapezoid'sArea.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\7.CalculatesTrapezoid'sArea\bin\Debug\7.CalculatesTrapezoid'sArea.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\7.CalculatesTrapezoid'sArea\bin\Debug\7.CalculatesTrapezoid'sArea.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\7.CalculatesTrapezoid'sArea\obj\Debug\8.CalculatesTrapezoid'sArea.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\7.CalculatesTrapezoid'sArea\obj\Debug\7.CalculatesTrapezoid'sArea.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\7.CalculatesTrapezoid'sArea\obj\Debug\7.CalculatesTrapezoid'sArea.pdb

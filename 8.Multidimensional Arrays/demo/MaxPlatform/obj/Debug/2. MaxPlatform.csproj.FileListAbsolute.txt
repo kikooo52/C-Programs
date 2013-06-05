@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\MaxPlatform\bin\Debug\MaxPlatform.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\MaxPlatform\bin\Debug\MaxPlatform.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\MaxPlatform\obj\Debug\2. MaxPlatform.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\MaxPlatform\obj\Debug\MaxPlatform.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\MaxPlatform\obj\Debug\MaxPlatform.pdb

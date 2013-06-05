@@ -1,0 +1,9 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Exam\bin\Debug\Exam.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Exam\obj\Debug\Exam.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Exam\obj\Debug\Exam.pdb

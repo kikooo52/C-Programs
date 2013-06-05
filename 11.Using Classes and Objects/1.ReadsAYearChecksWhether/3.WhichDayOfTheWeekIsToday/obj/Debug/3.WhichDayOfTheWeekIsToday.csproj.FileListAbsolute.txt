@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\3.WhichDayOfTheWeekIsToday\bin\Debug\3.WhichDayOfTheWeekIsToday.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\3.WhichDayOfTheWeekIsToday\bin\Debug\3.WhichDayOfTheWeekIsToday.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\3.WhichDayOfTheWeekIsToday\bin\Debug\3.WhichDayOfTheWeekIsToday.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\3.WhichDayOfTheWeekIsToday\obj\Debug\3.WhichDayOfTheWeekIsToday.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\3.WhichDayOfTheWeekIsToday\obj\Debug\3.WhichDayOfTheWeekIsToday.pdb

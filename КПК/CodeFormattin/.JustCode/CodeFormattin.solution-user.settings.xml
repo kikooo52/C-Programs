@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="084f35cc-b402-4515-be17-d66b37bd8ffc">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>CodeFormattin/Event.cs</FileRelativePath>
+        <ProjectRelativePath>CodeFormattin/CodeFormattin.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>8395445337396944637</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>CodeFormattin/EventHolder.cs</FileRelativePath>
+        <ProjectRelativePath>CodeFormattin/CodeFormattin.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>5097036920534884494</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>12701304758408927084</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>6353356645998338092</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>4721481903990272599</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

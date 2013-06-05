@@ -1,0 +1,10 @@
+C:\work\LocalTestProjects\CSharp\StatisticsGenerator\StatisticsGenerator\obj\Debug\StatisticsGenerator.csprojResolveAssemblyReference.cache
+C:\work\LocalTestProjects\CSharp\StatisticsGenerator\StatisticsGenerator\bin\Debug\StatisticsGenerator.exe
+C:\work\LocalTestProjects\CSharp\StatisticsGenerator\StatisticsGenerator\bin\Debug\StatisticsGenerator.pdb
+C:\work\LocalTestProjects\CSharp\StatisticsGenerator\StatisticsGenerator\obj\Debug\StatisticsGenerator.exe
+C:\work\LocalTestProjects\CSharp\StatisticsGenerator\StatisticsGenerator\obj\Debug\StatisticsGenerator.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\StatisticsGenerator\StatisticsGenerator\obj\Debug\StatisticsGenerator.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\StatisticsGenerator\StatisticsGenerator\obj\Debug\StatisticsGenerator.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\StatisticsGenerator\StatisticsGenerator\bin\Debug\StatisticsGenerator.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\StatisticsGenerator\StatisticsGenerator\bin\Debug\StatisticsGenerator.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\StatisticsGenerator\StatisticsGenerator\obj\Debug\StatisticsGenerator.csprojResolveAssemblyReference.cache

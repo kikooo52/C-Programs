@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\6.StringOfMaximum20Characters\bin\Debug\6.StringOfMaximum20Characters.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\6.StringOfMaximum20Characters\bin\Debug\6.StringOfMaximum20Characters.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\6.StringOfMaximum20Characters\bin\Debug\6.StringOfMaximum20Characters.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\6.StringOfMaximum20Characters\obj\Debug\6.StringOfMaximum20Characters.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\6.StringOfMaximum20Characters\obj\Debug\6.StringOfMaximum20Characters.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\6.StringOfMaximum20Characters\obj\Debug\6.StringOfMaximum20Characters.pdb

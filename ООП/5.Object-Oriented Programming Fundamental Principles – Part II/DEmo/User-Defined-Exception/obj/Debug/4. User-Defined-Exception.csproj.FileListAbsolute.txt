@@ -1,0 +1,8 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\User-Defined-Exception\bin\Debug\User-Defined-Exception.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\User-Defined-Exception\bin\Debug\User-Defined-Exception.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\User-Defined-Exception\obj\Debug\User-Defined-Exception.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\User-Defined-Exception\obj\Debug\User-Defined-Exception.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\DEmo\User-Defined-Exception\obj\Debug\User-Defined-Exception.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\DEmo\User-Defined-Exception\obj\Debug\User-Defined-Exception.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\DEmo\User-Defined-Exception\bin\Debug\User-Defined-Exception.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\DEmo\User-Defined-Exception\bin\Debug\User-Defined-Exception.pdb

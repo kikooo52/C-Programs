@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril t\ConsoleApplication1\CompareFloat\bin\Debug\CompareFloat.exe
+C:\Documents and Settings\Kiril t\ConsoleApplication1\CompareFloat\bin\Debug\CompareFloat.pdb
+C:\Documents and Settings\Kiril t\ConsoleApplication1\CompareFloat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril t\ConsoleApplication1\CompareFloat\obj\x86\Debug\CompareFloat.exe
+C:\Documents and Settings\Kiril t\ConsoleApplication1\CompareFloat\obj\x86\Debug\CompareFloat.pdb

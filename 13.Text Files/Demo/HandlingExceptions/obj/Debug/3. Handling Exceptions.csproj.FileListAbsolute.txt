@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13\HandlingExceptions\bin\Debug\HandlingExceptions.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13\HandlingExceptions\bin\Debug\HandlingExceptions.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13\HandlingExceptions\obj\Debug\HandlingExceptions.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13\HandlingExceptions\obj\Debug\HandlingExceptions.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\Demo\HandlingExceptions\obj\Debug\HandlingExceptions.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\Demo\HandlingExceptions\obj\Debug\HandlingExceptions.pdb

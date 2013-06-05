@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Problem 3 – Cooking\Problem 3 – Cooking\bin\Debug\Problem 3 – Cooking.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Problem 3 – Cooking\Problem 3 – Cooking\bin\Debug\Problem 3 – Cooking.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Problem 3 – Cooking\Problem 3 – Cooking\bin\Debug\Problem 3 – Cooking.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Problem 3 – Cooking\Problem 3 – Cooking\obj\Debug\Problem 3 – Cooking.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Problem 3 – Cooking\Problem 3 – Cooking\obj\Debug\Problem 3 – Cooking.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Problem 3 – Cooking\Problem 3 – Cooking\obj\Debug\Problem 3 – Cooking.pdb

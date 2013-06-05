@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\3.RefactorJS\bin\3.RefactorJS.dll
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\3.RefactorJS\bin\3.RefactorJS.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\3.RefactorJS\obj\Debug\3.RefactorJS.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\3.RefactorJS\obj\Debug\3.RefactorJS.dll
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\3.RefactorJS\obj\Debug\3.RefactorJS.pdb

@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\ForIntoFor\bin\Debug\ForIntoFor.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\ForIntoFor\bin\Debug\ForIntoFor.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\ForIntoFor\bin\Debug\ForIntoFor.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\ForIntoFor\obj\Debug\ForIntoFor.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\ForIntoFor\obj\Debug\ForIntoFor.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\ForIntoFor\obj\Debug\ForIntoFor.pdb

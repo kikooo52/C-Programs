@@ -1,0 +1,9 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\1.ReadIntInvalidOrNegative\1.ReadIntInvalidOrNegative\bin\Debug\1.ReadIntInvalidOrNegative.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\1.ReadIntInvalidOrNegative\1.ReadIntInvalidOrNegative\bin\Debug\1.ReadIntInvalidOrNegative.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\1.ReadIntInvalidOrNegative\1.ReadIntInvalidOrNegative\bin\Debug\1.ReadIntInvalidOrNegative.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\1.ReadIntInvalidOrNegative\1.ReadIntInvalidOrNegative\obj\Debug\1.ReadIntInvalidOrNegative.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\1.ReadIntInvalidOrNegative\1.ReadIntInvalidOrNegative\obj\Debug\1.ReadIntInvalidOrNegative.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\1.ReadIntInvalidOrNegative\1.ReadIntInvalidOrNegative\obj\Debug\1.ReadIntInvalidOrNegative.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12.Exception Handling\1.ReadIntInvalidOrNegative\1.ReadIntInvalidOrNegative\bin\Debug\1.ReadIntInvalidOrNegative.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12.Exception Handling\1.ReadIntInvalidOrNegative\1.ReadIntInvalidOrNegative\obj\Debug\1.ReadIntInvalidOrNegative.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12.Exception Handling\1.ReadIntInvalidOrNegative\1.ReadIntInvalidOrNegative\obj\Debug\1.ReadIntInvalidOrNegative.pdb

@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\ConditionalStatements\11.ConvertsANumber\bin\Debug\11.ConvertsANumber.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\ConditionalStatements\11.ConvertsANumber\bin\Debug\11.ConvertsANumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\ConditionalStatements\11.ConvertsANumber\bin\Debug\11.ConvertsANumber.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\ConditionalStatements\11.ConvertsANumber\obj\Debug\11.ConvertsANumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\ConditionalStatements\11.ConvertsANumber\obj\Debug\11.ConvertsANumber.pdb

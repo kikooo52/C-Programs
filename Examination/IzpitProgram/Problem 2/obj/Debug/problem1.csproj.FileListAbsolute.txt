@@ -1,0 +1,3 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\IzpitProgram\problem 2\bin\Debug\8.GCD.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\IzpitProgram\problem 2\obj\Debug\8.GCD.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\IzpitProgram\problem 2\obj\Debug\8.GCD.pdb

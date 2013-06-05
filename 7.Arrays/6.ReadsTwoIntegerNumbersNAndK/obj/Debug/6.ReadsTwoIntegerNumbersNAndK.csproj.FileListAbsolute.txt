@@ -1,0 +1,12 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\4.MaximalSequenceOfEqualElements\6.ReadsTwoIntegerNumbersNAndK\bin\Debug\6.ReadsTwoIntegerNumbersNAndK.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\4.MaximalSequenceOfEqualElements\6.ReadsTwoIntegerNumbersNAndK\bin\Debug\6.ReadsTwoIntegerNumbersNAndK.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\4.MaximalSequenceOfEqualElements\6.ReadsTwoIntegerNumbersNAndK\bin\Debug\6.ReadsTwoIntegerNumbersNAndK.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\4.MaximalSequenceOfEqualElements\6.ReadsTwoIntegerNumbersNAndK\obj\Debug\6.ReadsTwoIntegerNumbersNAndK.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\4.MaximalSequenceOfEqualElements\6.ReadsTwoIntegerNumbersNAndK\obj\Debug\6.ReadsTwoIntegerNumbersNAndK.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\4.MaximalSequenceOfEqualElements\6.ReadsTwoIntegerNumbersNAndK\obj\Debug\6.ReadsTwoIntegerNumbersNAndK.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\6.ReadsTwoIntegerNumbersNAndK\bin\Debug\6.ReadsTwoIntegerNumbersNAndK.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\6.ReadsTwoIntegerNumbersNAndK\obj\Debug\6.ReadsTwoIntegerNumbersNAndK.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\6.ReadsTwoIntegerNumbersNAndK\obj\Debug\6.ReadsTwoIntegerNumbersNAndK.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\6.ReadsTwoIntegerNumbersNAndK\obj\Debug\6.ReadsTwoIntegerNumbersNAndK.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\6.ReadsTwoIntegerNumbersNAndK\bin\Debug\6.ReadsTwoIntegerNumbersNAndK.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\6.ReadsTwoIntegerNumbersNAndK\bin\Debug\6.ReadsTwoIntegerNumbersNAndK.pdb

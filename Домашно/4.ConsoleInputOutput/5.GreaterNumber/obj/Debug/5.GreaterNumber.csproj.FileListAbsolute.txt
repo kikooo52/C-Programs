@@ -1,0 +1,10 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\5.GreaterNumber\bin\Debug\5.GreaterNumber.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\5.GreaterNumber\bin\Debug\5.GreaterNumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\5.GreaterNumber\bin\Debug\5.GreaterNumber.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\5.GreaterNumber\obj\Debug\5.GreaterNumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\5.GreaterNumber\obj\Debug\5.GreaterNumber.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\4.ConsoleInputOutput\5.GreaterNumber\bin\Debug\5.GreaterNumber.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\4.ConsoleInputOutput\5.GreaterNumber\obj\Debug\5.GreaterNumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\4.ConsoleInputOutput\5.GreaterNumber\obj\Debug\5.GreaterNumber.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\4.ConsoleInputOutput\5.GreaterNumber\bin\Debug\5.GreaterNumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\4.ConsoleInputOutput\5.GreaterNumber\bin\Debug\5.GreaterNumber.pdb

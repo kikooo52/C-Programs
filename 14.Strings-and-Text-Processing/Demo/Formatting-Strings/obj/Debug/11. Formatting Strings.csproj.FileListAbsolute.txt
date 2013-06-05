@@ -1,0 +1,4 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Formatting-Strings\bin\Debug\Formatting-Strings.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Formatting-Strings\bin\Debug\Formatting-Strings.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Formatting-Strings\obj\Debug\Formatting-Strings.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Formatting-Strings\obj\Debug\Formatting-Strings.pdb

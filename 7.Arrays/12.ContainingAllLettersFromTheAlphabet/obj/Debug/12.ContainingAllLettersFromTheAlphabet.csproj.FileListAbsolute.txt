@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\12.ContainingAllLettersFromTheAlphabet\bin\Debug\12.ContainingAllLettersFromTheAlphabet.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\12.ContainingAllLettersFromTheAlphabet\bin\Debug\12.ContainingAllLettersFromTheAlphabet.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\12.ContainingAllLettersFromTheAlphabet\bin\Debug\12.ContainingAllLettersFromTheAlphabet.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\12.ContainingAllLettersFromTheAlphabet\obj\Debug\12.ContainingAllLettersFromTheAlphabet.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\12.ContainingAllLettersFromTheAlphabet\obj\Debug\12.ContainingAllLettersFromTheAlphabet.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\12.ContainingAllLettersFromTheAlphabet\obj\Debug\12.ContainingAllLettersFromTheAlphabet.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+PointX:4, PointY:5, PointZ:6
+PointX:1, PointY:1, PointZ:0
+PointX:3, PointY:3, PointZ:1
+PointX:43, PointY:5, PointZ:6
+PointX:12, PointY:1, PointZ:0
+PointX:33, PointY:33, PointZ:3

@@ -1,0 +1,9 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\4.SortThreeRealValues\bin\Debug\4.SortThreeRealValues.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\4.SortThreeRealValues\obj\Debug\4.SortThreeRealValues.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\4.SortThreeRealValues\bin\Debug\4.SortThreeRealValues.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\4.SortThreeRealValues\bin\Debug\4.SortThreeRealValues.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\4.SortThreeRealValues\obj\Debug\4.SortThreeRealValues.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\4.SortThreeRealValues\obj\Debug\4.SortThreeRealValues.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\4.SortThreeRealValues\bin\Debug\4.SortThreeRealValues.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\4.SortThreeRealValues\obj\Debug\4.SortThreeRealValues.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\4.SortThreeRealValues\obj\Debug\4.SortThreeRealValues.pdb

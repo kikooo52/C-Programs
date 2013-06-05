@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.ReadsAYearChecksWhether", "1.ReadsAYearChecksWhether\1.ReadsAYearChecksWhether.csproj", "{94DC9A2E-7301-4C7C-8793-9DB350722CE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.GenerateTenRandomValues", "2.GenerateTenRandomValues\2.GenerateTenRandomValues.csproj", "{B51F98C5-BA75-415C-BB87-98F4BB4F5823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.WhichDayOfTheWeekIsToday", "3.WhichDayOfTheWeekIsToday\3.WhichDayOfTheWeekIsToday.csproj", "{610FB643-C647-4D2C-8D10-F103B90C2DEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.CalculateTheSurfaceOfATriangle", "4.CalculateTheSurfaceOfATriangle\4.CalculateTheSurfaceOfATriangle.csproj", "{5F3227D2-0EE8-4ADF-ABDB-71538396729A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.WorkdaysBetweenTodayAndGivenDate", "5.WorkdaysBetweenTodayAndGivenDate\5.WorkdaysBetweenTodayAndGivenDate.csproj", "{0C34E0B4-3C58-401A-857D-D74AE959DF8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.FunctionThatReadsRaluesOfString", "6.FunctionThatReadsRaluesOfString\6.FunctionThatReadsRaluesOfString.csproj", "{CAF91F69-FFCA-4B28-B461-FDB39D723618}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94DC9A2E-7301-4C7C-8793-9DB350722CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DC9A2E-7301-4C7C-8793-9DB350722CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DC9A2E-7301-4C7C-8793-9DB350722CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DC9A2E-7301-4C7C-8793-9DB350722CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51F98C5-BA75-415C-BB87-98F4BB4F5823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51F98C5-BA75-415C-BB87-98F4BB4F5823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51F98C5-BA75-415C-BB87-98F4BB4F5823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51F98C5-BA75-415C-BB87-98F4BB4F5823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610FB643-C647-4D2C-8D10-F103B90C2DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610FB643-C647-4D2C-8D10-F103B90C2DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610FB643-C647-4D2C-8D10-F103B90C2DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610FB643-C647-4D2C-8D10-F103B90C2DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F3227D2-0EE8-4ADF-ABDB-71538396729A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3227D2-0EE8-4ADF-ABDB-71538396729A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F3227D2-0EE8-4ADF-ABDB-71538396729A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3227D2-0EE8-4ADF-ABDB-71538396729A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C34E0B4-3C58-401A-857D-D74AE959DF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C34E0B4-3C58-401A-857D-D74AE959DF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C34E0B4-3C58-401A-857D-D74AE959DF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C34E0B4-3C58-401A-857D-D74AE959DF8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAF91F69-FFCA-4B28-B461-FDB39D723618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF91F69-FFCA-4B28-B461-FDB39D723618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF91F69-FFCA-4B28-B461-FDB39D723618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF91F69-FFCA-4B28-B461-FDB39D723618}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\1.IfExaminesTwoIntegerVariables\bin\Debug\1.IfExaminesTwoIntegerVariables.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\1.IfExaminesTwoIntegerVariables\bin\Debug\1.IfExaminesTwoIntegerVariables.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\1.IfExaminesTwoIntegerVariables\bin\Debug\1.IfExaminesTwoIntegerVariables.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\1.IfExaminesTwoIntegerVariables\obj\Debug\1.IfExaminesTwoIntegerVariables.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\1.IfExaminesTwoIntegerVariables\obj\Debug\1.IfExaminesTwoIntegerVariables.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\1.IfExaminesTwoIntegerVariables\obj\Debug\1.IfExaminesTwoIntegerVariables.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\1.IfExaminesTwoIntegerVariables\1.IfExaminesTwoIntegerVariables\bin\Debug\1.IfExaminesTwoIntegerVariables.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\1.IfExaminesTwoIntegerVariables\1.IfExaminesTwoIntegerVariables\obj\Debug\1.IfExaminesTwoIntegerVariables.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\1.IfExaminesTwoIntegerVariables\1.IfExaminesTwoIntegerVariables\obj\Debug\1.IfExaminesTwoIntegerVariables.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\1.IfExaminesTwoIntegerVariables\1.IfExaminesTwoIntegerVariables\bin\Debug\1.IfExaminesTwoIntegerVariables.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\1.IfExaminesTwoIntegerVariables\1.IfExaminesTwoIntegerVariables\bin\Debug\1.IfExaminesTwoIntegerVariables.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\1.IfExaminesTwoIntegerVariables\1.IfExaminesTwoIntegerVariables\obj\Debug\1.IfExaminesTwoIntegerVariables.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\ConditionalStatements\1.IfExaminesTwoIntegerVariables\1.IfExaminesTwoIntegerVariables\bin\Debug\1.IfExaminesTwoIntegerVariables.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\ConditionalStatements\1.IfExaminesTwoIntegerVariables\1.IfExaminesTwoIntegerVariables\obj\Debug\1.IfExaminesTwoIntegerVariables.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\ConditionalStatements\1.IfExaminesTwoIntegerVariables\1.IfExaminesTwoIntegerVariables\obj\Debug\1.IfExaminesTwoIntegerVariables.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\ConditionalStatements\1.IfExaminesTwoIntegerVariables\1.IfExaminesTwoIntegerVariables\bin\Debug\1.IfExaminesTwoIntegerVariables.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\ConditionalStatements\1.IfExaminesTwoIntegerVariables\1.IfExaminesTwoIntegerVariables\bin\Debug\1.IfExaminesTwoIntegerVariables.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\ConditionalStatements\1.IfExaminesTwoIntegerVariables\1.IfExaminesTwoIntegerVariables\obj\Debug\1.IfExaminesTwoIntegerVariables.csprojResolveAssemblyReference.cache

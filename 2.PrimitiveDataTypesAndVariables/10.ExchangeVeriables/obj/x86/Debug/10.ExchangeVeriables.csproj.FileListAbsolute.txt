@@ -1,0 +1,4 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\10.ExchangeVeriables\obj\x86\Debug\ExchangeVeriables.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\10.ExchangeVeriables\obj\x86\Debug\ExchangeVeriables.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\10.ExchangeVeriables\bin\Debug\ExchangeVeriables.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\10.ExchangeVeriables\bin\Debug\ExchangeVeriables.pdb

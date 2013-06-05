@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\12.ParseAnURLAddress\bin\Debug\12.ParseAnURLAddress.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\12.ParseAnURLAddress\bin\Debug\12.ParseAnURLAddress.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\12.ParseAnURLAddress\bin\Debug\12.ParseAnURLAddress.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\12.ParseAnURLAddress\obj\Debug\12.ParseAnURLAddress.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\12.ParseAnURLAddress\obj\Debug\12.ParseAnURLAddress.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\12.ParseAnURLAddress\obj\Debug\12.ParseAnURLAddress.pdb

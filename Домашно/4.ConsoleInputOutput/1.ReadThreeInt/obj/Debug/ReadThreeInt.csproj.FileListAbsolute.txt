@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\ReadThreeInt\bin\Debug\ReadThreeInt.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\ReadThreeInt\bin\Debug\ReadThreeInt.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\ReadThreeInt\bin\Debug\ReadThreeInt.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\ReadThreeInt\obj\Debug\ReadThreeInt.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\ReadThreeInt\obj\Debug\ReadThreeInt.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\ReadThreeInt\obj\Debug\ReadThreeInt.pdb

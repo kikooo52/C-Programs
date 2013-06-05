@@ -1,0 +1,3 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\4.ChekIfDiditls7\bin\Debug\ChekIfDiditls7.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\4.ChekIfDiditls7\obj\Debug\ChekIfDiditls7.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\4.ChekIfDiditls7\obj\Debug\ChekIfDiditls7.pdb

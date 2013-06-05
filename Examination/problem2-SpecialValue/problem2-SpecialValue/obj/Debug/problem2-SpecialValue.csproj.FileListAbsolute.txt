@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\problem2-SpecialValue\problem2-SpecialValue\bin\Debug\problem2-SpecialValue.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\problem2-SpecialValue\problem2-SpecialValue\bin\Debug\problem2-SpecialValue.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\problem2-SpecialValue\problem2-SpecialValue\bin\Debug\problem2-SpecialValue.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\problem2-SpecialValue\problem2-SpecialValue\obj\Debug\problem2-SpecialValue.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\problem2-SpecialValue\problem2-SpecialValue\obj\Debug\problem2-SpecialValue.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\problem2-SpecialValue\problem2-SpecialValue\obj\Debug\problem2-SpecialValue.pdb

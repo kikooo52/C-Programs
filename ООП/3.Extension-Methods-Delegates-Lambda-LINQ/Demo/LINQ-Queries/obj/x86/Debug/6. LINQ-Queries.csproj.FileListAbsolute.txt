@@ -1,0 +1,4 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\Demo\LINQ-Queries\bin\Debug\LINQ-Queries.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\Demo\LINQ-Queries\bin\Debug\LINQ-Queries.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\Demo\LINQ-Queries\obj\x86\Debug\LINQ-Queries.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\Demo\LINQ-Queries\obj\x86\Debug\LINQ-Queries.pdb

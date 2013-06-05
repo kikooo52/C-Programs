@@ -1,0 +1,12 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\6.PythagoreanTheorem\bin\Debug\6.PythagoreanTheorem.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\6.PythagoreanTheorem\bin\Debug\6.PythagoreanTheorem.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\6.PythagoreanTheorem\bin\Debug\6.PythagoreanTheorem.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\6.PythagoreanTheorem\obj\Debug\6.PythagoreanTheorem.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\6.PythagoreanTheorem\obj\Debug\6.PythagoreanTheorem.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\6.PythagoreanTheorem\obj\Debug\6.PythagoreanTheorem.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\8.PythagoreanTheorem\bin\Debug\6.PythagoreanTheorem.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\8.PythagoreanTheorem\obj\Debug\6.PythagoreanTheorem.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\8.PythagoreanTheorem\obj\Debug\6.PythagoreanTheorem.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\8.PythagoreanTheorem\bin\Debug\6.PythagoreanTheorem.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\8.PythagoreanTheorem\bin\Debug\6.PythagoreanTheorem.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\8.PythagoreanTheorem\obj\Debug\6.PythagoreanTheorem.csprojResolveAssemblyReference.cache

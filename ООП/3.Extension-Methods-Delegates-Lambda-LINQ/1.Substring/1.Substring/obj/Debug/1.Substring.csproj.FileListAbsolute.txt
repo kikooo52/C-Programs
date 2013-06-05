@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\1.Substring\bin\Debug\1.Substring.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\1.Substring\bin\Debug\1.Substring.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\1.Substring\bin\Debug\1.Substring.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\1.Substring\obj\Debug\1.Substring.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\1.Substring\obj\Debug\1.Substring.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\1.Substring\obj\Debug\1.Substring.pdb

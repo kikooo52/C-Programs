@@ -1,0 +1,12 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\7.SelectionSort\bin\Debug\7.SelectionSort.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\7.SelectionSort\bin\Debug\7.SelectionSort.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\7.SelectionSort\bin\Debug\7.SelectionSort.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\7.SelectionSort\obj\Debug\7.SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\7.SelectionSort\obj\Debug\7.SelectionSort.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\7.SelectionSort\obj\Debug\7.SelectionSort.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\7.SelectionSort\bin\Debug\7.SelectionSort.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\7.SelectionSort\obj\Debug\7.SelectionSort.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\7.SelectionSort\obj\Debug\7.SelectionSort.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\7.SelectionSort\bin\Debug\7.SelectionSort.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\7.SelectionSort\bin\Debug\7.SelectionSort.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\7.SelectionSort\obj\Debug\7.SelectionSort.csprojResolveAssemblyReference.cache

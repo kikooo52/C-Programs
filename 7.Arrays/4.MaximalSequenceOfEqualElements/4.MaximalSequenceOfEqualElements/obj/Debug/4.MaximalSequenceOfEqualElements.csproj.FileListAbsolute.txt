@@ -1,0 +1,12 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\4.MaximalSequenceOfEqualElements\4.MaximalSequenceOfEqualElements\bin\Debug\4.MaximalSequenceOfEqualElements.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\4.MaximalSequenceOfEqualElements\4.MaximalSequenceOfEqualElements\bin\Debug\4.MaximalSequenceOfEqualElements.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\4.MaximalSequenceOfEqualElements\4.MaximalSequenceOfEqualElements\bin\Debug\4.MaximalSequenceOfEqualElements.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\4.MaximalSequenceOfEqualElements\4.MaximalSequenceOfEqualElements\obj\Debug\4.MaximalSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\4.MaximalSequenceOfEqualElements\4.MaximalSequenceOfEqualElements\obj\Debug\4.MaximalSequenceOfEqualElements.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\4.MaximalSequenceOfEqualElements\4.MaximalSequenceOfEqualElements\obj\Debug\4.MaximalSequenceOfEqualElements.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\4.MaximalSequenceOfEqualElements\4.MaximalSequenceOfEqualElements\bin\Debug\4.MaximalSequenceOfEqualElements.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\4.MaximalSequenceOfEqualElements\4.MaximalSequenceOfEqualElements\obj\Debug\4.MaximalSequenceOfEqualElements.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\4.MaximalSequenceOfEqualElements\4.MaximalSequenceOfEqualElements\obj\Debug\4.MaximalSequenceOfEqualElements.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\4.MaximalSequenceOfEqualElements\4.MaximalSequenceOfEqualElements\bin\Debug\4.MaximalSequenceOfEqualElements.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\4.MaximalSequenceOfEqualElements\4.MaximalSequenceOfEqualElements\bin\Debug\4.MaximalSequenceOfEqualElements.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\4.MaximalSequenceOfEqualElements\4.MaximalSequenceOfEqualElements\obj\Debug\4.MaximalSequenceOfEqualElements.csprojResolveAssemblyReference.cache

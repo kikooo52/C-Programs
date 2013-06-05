@@ -1,0 +1,9 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\Arrays\obj\Debug\Arrays.pdb

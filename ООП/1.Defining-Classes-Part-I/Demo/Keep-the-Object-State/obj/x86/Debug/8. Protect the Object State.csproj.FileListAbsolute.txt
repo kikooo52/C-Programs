@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\Demo\Keep-the-Object-State\bin\Debug\Keep-the-Object-State.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\Demo\Keep-the-Object-State\bin\Debug\Keep-the-Object-State.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\Demo\Keep-the-Object-State\obj\x86\Debug\8. Protect the Object State.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\Demo\Keep-the-Object-State\obj\x86\Debug\Keep-the-Object-State.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\Demo\Keep-the-Object-State\obj\x86\Debug\Keep-the-Object-State.pdb

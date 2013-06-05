@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril t\ConsoleApplication1\ExchangeVeriables\bin\Debug\ExchangeVeriables.exe
+C:\Documents and Settings\Kiril t\ConsoleApplication1\ExchangeVeriables\bin\Debug\ExchangeVeriables.pdb
+C:\Documents and Settings\Kiril t\ConsoleApplication1\ExchangeVeriables\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril t\ConsoleApplication1\ExchangeVeriables\obj\x86\Debug\ExchangeVeriables.exe
+C:\Documents and Settings\Kiril t\ConsoleApplication1\ExchangeVeriables\obj\x86\Debug\ExchangeVeriables.pdb

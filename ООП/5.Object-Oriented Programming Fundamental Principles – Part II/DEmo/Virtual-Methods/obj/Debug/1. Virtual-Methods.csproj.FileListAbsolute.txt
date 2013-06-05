@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\Virtual-Methods\bin\Debug\Virtual-Methods.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\Virtual-Methods\bin\Debug\Virtual-Methods.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\Virtual-Methods\obj\Debug\1. Virtual-Methods.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\Virtual-Methods\obj\Debug\Virtual-Methods.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\Virtual-Methods\obj\Debug\Virtual-Methods.pdb

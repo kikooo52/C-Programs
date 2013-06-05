@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\4. NamingIdentifiers\bin\Debug\3.NamingIdentifiers.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\4. NamingIdentifiers\bin\Debug\3.NamingIdentifiers.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\4. NamingIdentifiers\bin\Debug\3.NamingIdentifiers.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\4. NamingIdentifiers\obj\Debug\3.NamingIdentifiers.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\4. NamingIdentifiers\obj\Debug\3.NamingIdentifiers.pdb

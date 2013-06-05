@@ -1,0 +1,12 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\5.encapsulate\bin\Debug\5.encapsulate.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\5.encapsulate\bin\Debug\5.encapsulate.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\5.encapsulate\bin\Debug\5.encapsulate.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\5.encapsulate\obj\Debug\5.encapsulate.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\5.encapsulate\obj\Debug\5.encapsulate.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\5.encapsulate\obj\Debug\5.encapsulate.pdb
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\5.encapsulate\bin\Debug\5.encapsulate.exe.config
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\5.encapsulate\obj\Debug\5.encapsulate.exe
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\5.encapsulate\obj\Debug\5.encapsulate.pdb
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\5.encapsulate\bin\Debug\5.encapsulate.exe
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\5.encapsulate\bin\Debug\5.encapsulate.pdb
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\5.encapsulate\obj\Debug\5.encapsulate.csprojResolveAssemblyReference.cache

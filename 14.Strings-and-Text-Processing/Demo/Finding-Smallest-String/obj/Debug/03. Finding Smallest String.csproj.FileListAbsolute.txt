@@ -1,0 +1,7 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Finding-Smallest-String\bin\Debug\Finding-Smallest-String.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Finding-Smallest-String\bin\Debug\Finding-Smallest-String.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Finding-Smallest-String\obj\Debug\03. Finding Smallest String.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Finding-Smallest-String\obj\Debug\Finding-Smallest-String.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Finding-Smallest-String\obj\Debug\Finding-Smallest-String.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\Demo\Finding-Smallest-String\obj\Debug\Finding-Smallest-String.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\Demo\Finding-Smallest-String\obj\Debug\Finding-Smallest-String.pdb

@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\PrimewithFor\bin\Debug\PrimewithFor.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\PrimewithFor\bin\Debug\PrimewithFor.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\PrimewithFor\bin\Debug\PrimewithFor.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\PrimewithFor\obj\Debug\PrimewithFor.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\PrimewithFor\obj\Debug\PrimewithFor.pdb

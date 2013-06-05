@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\1.SequenceOfPositiveInteger\bin\Debug\1.SequenceOfPositiveInteger.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\1.SequenceOfPositiveInteger\bin\Debug\1.SequenceOfPositiveInteger.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\1.SequenceOfPositiveInteger\bin\Debug\1.SequenceOfPositiveInteger.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\1.SequenceOfPositiveInteger\obj\Debug\1.SequenceOfPositiveInteger.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\1.SequenceOfPositiveInteger\obj\Debug\1.SequenceOfPositiveInteger.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\1.SequenceOfPositiveInteger\obj\Debug\1.SequenceOfPositiveInteger.csprojResolveAssemblyReference.cache

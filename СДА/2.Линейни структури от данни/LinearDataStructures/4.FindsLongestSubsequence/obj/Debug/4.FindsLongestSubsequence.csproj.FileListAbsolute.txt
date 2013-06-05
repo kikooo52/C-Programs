@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\4.FindsLongestSubsequence\bin\Debug\4.FindsLongestSubsequence.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\4.FindsLongestSubsequence\bin\Debug\4.FindsLongestSubsequence.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\4.FindsLongestSubsequence\bin\Debug\4.FindsLongestSubsequence.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\4.FindsLongestSubsequence\obj\Debug\4.FindsLongestSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\4.FindsLongestSubsequence\obj\Debug\4.FindsLongestSubsequence.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\4.FindsLongestSubsequence\obj\Debug\4.FindsLongestSubsequence.pdb

@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\6.GivenTwoIntegerNumbersNandX\6.GivenTwoIntegerNumbersNandX\bin\Debug\6.GivenTwoIntegerNumbersNandX.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\6.GivenTwoIntegerNumbersNandX\6.GivenTwoIntegerNumbersNandX\bin\Debug\6.GivenTwoIntegerNumbersNandX.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\6.GivenTwoIntegerNumbersNandX\6.GivenTwoIntegerNumbersNandX\bin\Debug\6.GivenTwoIntegerNumbersNandX.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\6.GivenTwoIntegerNumbersNandX\6.GivenTwoIntegerNumbersNandX\obj\Debug\6.GivenTwoIntegerNumbersNandX.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\6.GivenTwoIntegerNumbersNandX\6.GivenTwoIntegerNumbersNandX\obj\Debug\6.GivenTwoIntegerNumbersNandX.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\6.GivenTwoIntegerNumbersNandX\6.GivenTwoIntegerNumbersNandX\obj\Debug\6.GivenTwoIntegerNumbersNandX.pdb

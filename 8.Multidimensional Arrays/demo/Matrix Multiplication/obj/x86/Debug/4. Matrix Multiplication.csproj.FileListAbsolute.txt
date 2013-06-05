@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\Matrix Multiplication\bin\Debug\Matrix Multiplication.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\Matrix Multiplication\bin\Debug\Matrix Multiplication.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\Matrix Multiplication\obj\x86\Debug\4. Matrix Multiplication.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\Matrix Multiplication\obj\x86\Debug\Matrix Multiplication.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\Matrix Multiplication\obj\x86\Debug\Matrix Multiplication.pdb

@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\11.LinkedList\bin\Debug\11.LinkedList.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\11.LinkedList\obj\Debug\11.LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\11.LinkedList\bin\Debug\11.LinkedList.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\11.LinkedList\bin\Debug\11.LinkedList.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\11.LinkedList\obj\Debug\11.LinkedList.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\11.LinkedList\obj\Debug\11.LinkedList.pdb

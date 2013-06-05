@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril t\ConsoleApplication1\Variables\bin\Debug\Variables.exe
+C:\Documents and Settings\Kiril t\ConsoleApplication1\Variables\bin\Debug\Variables.pdb
+C:\Documents and Settings\Kiril t\ConsoleApplication1\Variables\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril t\ConsoleApplication1\Variables\obj\x86\Debug\Variables.exe
+C:\Documents and Settings\Kiril t\ConsoleApplication1\Variables\obj\x86\Debug\Variables.pdb

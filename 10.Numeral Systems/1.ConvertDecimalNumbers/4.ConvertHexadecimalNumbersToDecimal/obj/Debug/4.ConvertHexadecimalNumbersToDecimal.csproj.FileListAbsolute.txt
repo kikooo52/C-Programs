@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\4.ConvertHexadecimalNumbersToDecimal\bin\Debug\4.ConvertHexadecimalNumbersToDecimal.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\4.ConvertHexadecimalNumbersToDecimal\bin\Debug\4.ConvertHexadecimalNumbersToDecimal.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\4.ConvertHexadecimalNumbersToDecimal\bin\Debug\4.ConvertHexadecimalNumbersToDecimal.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\4.ConvertHexadecimalNumbersToDecimal\obj\Debug\4.ConvertHexadecimalNumbersToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\4.ConvertHexadecimalNumbersToDecimal\obj\Debug\4.ConvertHexadecimalNumbersToDecimal.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\4.ConvertHexadecimalNumbersToDecimal\obj\Debug\4.ConvertHexadecimalNumbersToDecimal.pdb

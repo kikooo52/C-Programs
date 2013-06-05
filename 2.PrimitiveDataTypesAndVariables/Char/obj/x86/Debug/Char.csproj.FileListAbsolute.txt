@@ -1,0 +1,10 @@
+C:\Documents and Settings\Kiril t\OperatorsExpressionsAndStatements\Char\bin\Debug\Char.exe
+C:\Documents and Settings\Kiril t\OperatorsExpressionsAndStatements\Char\bin\Debug\Char.pdb
+C:\Documents and Settings\Kiril t\OperatorsExpressionsAndStatements\Char\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril t\OperatorsExpressionsAndStatements\Char\obj\x86\Debug\Char.exe
+C:\Documents and Settings\Kiril t\OperatorsExpressionsAndStatements\Char\obj\x86\Debug\Char.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\Char\obj\x86\Debug\Char.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\Char\obj\x86\Debug\Char.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\Char\bin\Debug\Char.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\Char\bin\Debug\Char.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\Char\obj\x86\Debug\Char.csprojResolveAssemblyReference.cache

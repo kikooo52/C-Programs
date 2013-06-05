@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\Demo\Extension-Methods\bin\Debug\Extension-Methods.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\Demo\Extension-Methods\bin\Debug\Extension-Methods.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\Demo\Extension-Methods\obj\x86\Debug\1. Extension-Methods.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\Demo\Extension-Methods\obj\x86\Debug\Extension-Methods.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\Demo\Extension-Methods\obj\x86\Debug\Extension-Methods.pdb

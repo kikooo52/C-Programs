@@ -1,0 +1,12 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.csprojResolveAssemblyReference.cache

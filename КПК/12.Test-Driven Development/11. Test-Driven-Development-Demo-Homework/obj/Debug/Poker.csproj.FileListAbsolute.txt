@@ -1,0 +1,7 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\12\11. Test-Driven-Development-Demo-Homework\bin\Debug\Poker.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\12\11. Test-Driven-Development-Demo-Homework\bin\Debug\Poker.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\12\11. Test-Driven-Development-Demo-Homework\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\12\11. Test-Driven-Development-Demo-Homework\obj\Debug\Poker.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\12\11. Test-Driven-Development-Demo-Homework\obj\Debug\Poker.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\12.Test-Driven Development\11. Test-Driven-Development-Demo-Homework\obj\Debug\Poker.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\12.Test-Driven Development\11. Test-Driven-Development-Demo-Homework\obj\Debug\Poker.pdb

@@ -1,0 +1,9 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\3.batteryType\bin\Debug\3.batteryType.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\3.batteryType\bin\Debug\3.batteryType.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\3.batteryType\bin\Debug\3.batteryType.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\3.batteryType\obj\Debug\3.batteryType.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\3.batteryType\obj\Debug\3.batteryType.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\3.batteryType\obj\Debug\3.batteryType.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\1.Defining-Classes-Part-I\1.InformationForMobile\3.batteryType\bin\Debug\3.batteryType.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\1.Defining-Classes-Part-I\1.InformationForMobile\3.batteryType\obj\Debug\3.batteryType.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\1.Defining-Classes-Part-I\1.InformationForMobile\3.batteryType\obj\Debug\3.batteryType.pdb

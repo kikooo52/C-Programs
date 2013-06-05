@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\3.IntIncreasingOrder\bin\Debug\3.IntIncreasingOrder.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\3.IntIncreasingOrder\bin\Debug\3.IntIncreasingOrder.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\3.IntIncreasingOrder\bin\Debug\3.IntIncreasingOrder.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\3.IntIncreasingOrder\obj\Debug\3.IntIncreasingOrder.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\3.IntIncreasingOrder\obj\Debug\3.IntIncreasingOrder.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\3.IntIncreasingOrder\obj\Debug\3.IntIncreasingOrder.pdb

@@ -1,0 +1,7 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\Triangle\bin\Debug\Triangle.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\Triangle\bin\Debug\Triangle.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\Triangle\obj\Debug\4. Triangle.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\Triangle\obj\Debug\Triangle.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\Triangle\obj\Debug\Triangle.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\Demo\Triangle\obj\Debug\Triangle.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\Demo\Triangle\obj\Debug\Triangle.pdb

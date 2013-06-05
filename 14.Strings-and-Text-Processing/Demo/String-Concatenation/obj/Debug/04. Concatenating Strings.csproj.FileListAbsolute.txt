@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\String-Concatenation\bin\Debug\String-Concatenation.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\String-Concatenation\bin\Debug\String-Concatenation.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\String-Concatenation\obj\Debug\String-Concatenation.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\String-Concatenation\obj\Debug\String-Concatenation.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\Demo\String-Concatenation\obj\Debug\String-Concatenation.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\Demo\String-Concatenation\obj\Debug\String-Concatenation.pdb

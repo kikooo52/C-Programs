@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Encapsulation\obj\Debug\6. Encapsulation.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Encapsulation\obj\Debug\Encapsulation.pdb

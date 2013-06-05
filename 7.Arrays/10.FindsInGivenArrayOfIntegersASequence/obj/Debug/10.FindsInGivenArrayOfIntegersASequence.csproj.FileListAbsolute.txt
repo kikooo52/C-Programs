@@ -1,0 +1,12 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\9.FindsTheMostFrequentNumber\10.FindsInGivenArrayOfIntegersASequence\bin\Debug\10.FindsInGivenArrayOfIntegersASequence.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\9.FindsTheMostFrequentNumber\10.FindsInGivenArrayOfIntegersASequence\bin\Debug\10.FindsInGivenArrayOfIntegersASequence.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\9.FindsTheMostFrequentNumber\10.FindsInGivenArrayOfIntegersASequence\bin\Debug\10.FindsInGivenArrayOfIntegersASequence.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\9.FindsTheMostFrequentNumber\10.FindsInGivenArrayOfIntegersASequence\obj\Debug\10.FindsInGivenArrayOfIntegersASequence.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\9.FindsTheMostFrequentNumber\10.FindsInGivenArrayOfIntegersASequence\obj\Debug\10.FindsInGivenArrayOfIntegersASequence.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\9.FindsTheMostFrequentNumber\10.FindsInGivenArrayOfIntegersASequence\obj\Debug\10.FindsInGivenArrayOfIntegersASequence.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\10.FindsInGivenArrayOfIntegersASequence\bin\Debug\10.FindsInGivenArrayOfIntegersASequence.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\10.FindsInGivenArrayOfIntegersASequence\obj\Debug\10.FindsInGivenArrayOfIntegersASequence.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\10.FindsInGivenArrayOfIntegersASequence\obj\Debug\10.FindsInGivenArrayOfIntegersASequence.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\10.FindsInGivenArrayOfIntegersASequence\bin\Debug\10.FindsInGivenArrayOfIntegersASequence.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\10.FindsInGivenArrayOfIntegersASequence\bin\Debug\10.FindsInGivenArrayOfIntegersASequence.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\10.FindsInGivenArrayOfIntegersASequence\obj\Debug\10.FindsInGivenArrayOfIntegersASequence.csprojResolveAssemblyReference.cache

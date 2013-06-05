@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Snake\Snake\obj\Debug\Snake.pdb

@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\5.NameOfDigit\bin\Debug\5.NameOfDigit.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\5.NameOfDigit\bin\Debug\5.NameOfDigit.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\5.NameOfDigit\bin\Debug\5.NameOfDigit.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\5.NameOfDigit\obj\Debug\5.NameOfDigit.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\5.NameOfDigit\obj\Debug\5.NameOfDigit.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\5.NameOfDigit\obj\Debug\5.NameOfDigit.pdb

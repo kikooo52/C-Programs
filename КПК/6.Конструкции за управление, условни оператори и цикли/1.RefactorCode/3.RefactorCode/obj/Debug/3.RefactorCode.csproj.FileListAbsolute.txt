@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\6.Конструкции за управление, условни оператори и цикли\1.RefactorCode\3.RefactorCode\bin\Debug\3.RefactorCode.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\6.Конструкции за управление, условни оператори и цикли\1.RefactorCode\3.RefactorCode\bin\Debug\3.RefactorCode.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\6.Конструкции за управление, условни оператори и цикли\1.RefactorCode\3.RefactorCode\bin\Debug\3.RefactorCode.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\6.Конструкции за управление, условни оператори и цикли\1.RefactorCode\3.RefactorCode\obj\Debug\3.RefactorCode.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\6.Конструкции за управление, условни оператори и цикли\1.RefactorCode\3.RefactorCode\obj\Debug\3.RefactorCode.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\6.Конструкции за управление, условни оператори и цикли\1.RefactorCode\3.RefactorCode\obj\Debug\3.RefactorCode.pdb

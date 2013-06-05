@@ -1,0 +1,12 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Histogram\Histogram\bin\Debug\Histogram.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Histogram\Histogram\bin\Debug\Histogram.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Histogram\Histogram\bin\Debug\Histogram.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Histogram\Histogram\obj\Debug\Histogram.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Histogram\Histogram\obj\Debug\Histogram.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Histogram\Histogram\obj\Debug\Histogram.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Histogram\Histogram\bin\Debug\Histogram.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Histogram\Histogram\obj\Debug\Histogram.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Histogram\Histogram\obj\Debug\Histogram.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Histogram\Histogram\bin\Debug\Histogram.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Histogram\Histogram\bin\Debug\Histogram.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Histogram\Histogram\obj\Debug\Histogram.csprojResolveAssemblyReference.cache

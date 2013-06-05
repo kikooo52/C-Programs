@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril t\ConsoleApplication1\FollowingValues\bin\Debug\FollowingValues.exe
+C:\Documents and Settings\Kiril t\ConsoleApplication1\FollowingValues\bin\Debug\FollowingValues.pdb
+C:\Documents and Settings\Kiril t\ConsoleApplication1\FollowingValues\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril t\ConsoleApplication1\FollowingValues\obj\x86\Debug\FollowingValues.exe
+C:\Documents and Settings\Kiril t\ConsoleApplication1\FollowingValues\obj\x86\Debug\FollowingValues.pdb

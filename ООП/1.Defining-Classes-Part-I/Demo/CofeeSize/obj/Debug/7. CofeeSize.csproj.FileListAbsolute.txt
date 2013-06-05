@@ -1,0 +1,4 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\Demo\CofeeSize\bin\Debug\CofeeSize.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\Demo\CofeeSize\bin\Debug\CofeeSize.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\Demo\CofeeSize\obj\Debug\CofeeSize.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\Demo\CofeeSize\obj\Debug\CofeeSize.pdb

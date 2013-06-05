@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Interfaces-and-Implementation\obj\x86\Debug\3. Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Interfaces-and-Implementation\bin\Debug\Interfaces.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Interfaces-and-Implementation\bin\Debug\Interfaces.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Interfaces-and-Implementation\obj\x86\Debug\Interfaces.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Interfaces-and-Implementation\obj\x86\Debug\Interfaces.pdb

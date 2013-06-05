@@ -1,0 +1,15 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\8.gsmCall\bin\Debug\8.gsmCall.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\8.gsmCall\bin\Debug\8.gsmCall.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\8.gsmCall\bin\Debug\8.gsmCall.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\8.gsmCall\obj\Debug\8.gsmCall.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\8.gsmCall\obj\Debug\8.gsmCall.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\8.gsmCall\obj\Debug\8.gsmCall.pdb
+C:\Users\ognyan.dimitrov\Dropbox\Ogi (2)\1.InformationForMobile\8.gsmCall\bin\Debug\8.gsmCall.exe.config
+C:\Users\ognyan.dimitrov\Dropbox\Ogi (2)\1.InformationForMobile\8.gsmCall\obj\Debug\8.gsmCall.exe
+C:\Users\ognyan.dimitrov\Dropbox\Ogi (2)\1.InformationForMobile\8.gsmCall\obj\Debug\8.gsmCall.pdb
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\8.gsmCall\bin\Debug\8.gsmCall.exe.config
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\8.gsmCall\obj\Debug\8.gsmCall.exe
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\8.gsmCall\obj\Debug\8.gsmCall.pdb
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\8.gsmCall\bin\Debug\8.gsmCall.exe
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\8.gsmCall\bin\Debug\8.gsmCall.pdb
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\8.gsmCall\obj\Debug\8.gsmCall.csprojResolveAssemblyReference.cache

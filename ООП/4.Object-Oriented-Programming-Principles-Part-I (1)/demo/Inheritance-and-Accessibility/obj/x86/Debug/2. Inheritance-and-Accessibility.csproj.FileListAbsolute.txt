@@ -1,0 +1,4 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Inheritance-and-Accessibility\bin\Debug\TransitiveInheritance.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Inheritance-and-Accessibility\bin\Debug\TransitiveInheritance.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Inheritance-and-Accessibility\obj\x86\Debug\TransitiveInheritance.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Inheritance-and-Accessibility\obj\x86\Debug\TransitiveInheritance.pdb

@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\ReadWriteMatrix\bin\Debug\ReadWriteMatrix.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\ReadWriteMatrix\bin\Debug\ReadWriteMatrix.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\ReadWriteMatrix\obj\Debug\1. ReadWriteMatrix.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\ReadWriteMatrix\obj\Debug\ReadWriteMatrix.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\ReadWriteMatrix\obj\Debug\ReadWriteMatrix.pdb

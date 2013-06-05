@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\guestNumber\bin\Debug\guestNumber.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\guestNumber\bin\Debug\guestNumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\guestNumber\bin\Debug\guestNumber.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\guestNumber\obj\Debug\guestNumber.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\guestNumber\obj\Debug\guestNumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\guestNumber\obj\Debug\guestNumber.pdb

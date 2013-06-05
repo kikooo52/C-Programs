@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Parsing-Numbers-and-Dates\bin\Debug\Parsing-Numbers-and-Dates.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Parsing-Numbers-and-Dates\bin\Debug\Parsing-Numbers-and-Dates.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Parsing-Numbers-and-Dates\obj\x86\Debug\12. Parsing Numbers and Dates.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Parsing-Numbers-and-Dates\obj\x86\Debug\Parsing-Numbers-and-Dates.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Parsing-Numbers-and-Dates\obj\x86\Debug\Parsing-Numbers-and-Dates.pdb

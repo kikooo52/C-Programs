@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\demo\Attributes\bin\Debug\Attributes.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\demo\Attributes\bin\Debug\Attributes.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\demo\Attributes\obj\Debug\09. Attributes.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\demo\Attributes\obj\Debug\Attributes.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\demo\Attributes\obj\Debug\Attributes.pdb

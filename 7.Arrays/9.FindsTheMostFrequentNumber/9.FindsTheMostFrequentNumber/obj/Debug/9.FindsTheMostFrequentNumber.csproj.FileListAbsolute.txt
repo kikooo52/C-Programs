@@ -1,0 +1,12 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\9.FindsTheMostFrequentNumber\9.FindsTheMostFrequentNumber\bin\Debug\9.FindsTheMostFrequentNumber.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\9.FindsTheMostFrequentNumber\9.FindsTheMostFrequentNumber\bin\Debug\9.FindsTheMostFrequentNumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\9.FindsTheMostFrequentNumber\9.FindsTheMostFrequentNumber\bin\Debug\9.FindsTheMostFrequentNumber.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\9.FindsTheMostFrequentNumber\9.FindsTheMostFrequentNumber\obj\Debug\9.FindsTheMostFrequentNumber.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\9.FindsTheMostFrequentNumber\9.FindsTheMostFrequentNumber\obj\Debug\9.FindsTheMostFrequentNumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\9.FindsTheMostFrequentNumber\9.FindsTheMostFrequentNumber\obj\Debug\9.FindsTheMostFrequentNumber.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\9.FindsTheMostFrequentNumber\9.FindsTheMostFrequentNumber\bin\Debug\9.FindsTheMostFrequentNumber.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\9.FindsTheMostFrequentNumber\9.FindsTheMostFrequentNumber\obj\Debug\9.FindsTheMostFrequentNumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\9.FindsTheMostFrequentNumber\9.FindsTheMostFrequentNumber\obj\Debug\9.FindsTheMostFrequentNumber.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\9.FindsTheMostFrequentNumber\9.FindsTheMostFrequentNumber\bin\Debug\9.FindsTheMostFrequentNumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\9.FindsTheMostFrequentNumber\9.FindsTheMostFrequentNumber\bin\Debug\9.FindsTheMostFrequentNumber.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\9.FindsTheMostFrequentNumber\9.FindsTheMostFrequentNumber\obj\Debug\9.FindsTheMostFrequentNumber.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\4.CountHowManyTimesGivenNumberAppears\bin\Debug\4.CountHowManyTimesGivenNumberAppears.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\4.CountHowManyTimesGivenNumberAppears\bin\Debug\4.CountHowManyTimesGivenNumberAppears.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\4.CountHowManyTimesGivenNumberAppears\bin\Debug\4.CountHowManyTimesGivenNumberAppears.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\4.CountHowManyTimesGivenNumberAppears\obj\Debug\4.CountHowManyTimesGivenNumberAppears.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\4.CountHowManyTimesGivenNumberAppears\obj\Debug\4.CountHowManyTimesGivenNumberAppears.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\4.CountHowManyTimesGivenNumberAppears\obj\Debug\4.CountHowManyTimesGivenNumberAppears.pdb

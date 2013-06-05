@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\2.ProgramThatReadsARectangularMatrix\Test\bin\Debug\Test.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\2.ProgramThatReadsARectangularMatrix\Test\bin\Debug\Test.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\2.ProgramThatReadsARectangularMatrix\Test\bin\Debug\Test.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\2.ProgramThatReadsARectangularMatrix\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\2.ProgramThatReadsARectangularMatrix\Test\obj\Debug\Test.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\2.ProgramThatReadsARectangularMatrix\Test\obj\Debug\Test.pdb

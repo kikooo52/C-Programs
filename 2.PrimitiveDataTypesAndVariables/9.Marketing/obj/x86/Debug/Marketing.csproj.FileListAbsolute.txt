@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril t\ConsoleApplication1\Marketing\bin\Debug\Marketing.exe
+C:\Documents and Settings\Kiril t\ConsoleApplication1\Marketing\bin\Debug\Marketing.pdb
+C:\Documents and Settings\Kiril t\ConsoleApplication1\Marketing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril t\ConsoleApplication1\Marketing\obj\x86\Debug\Marketing.exe
+C:\Documents and Settings\Kiril t\ConsoleApplication1\Marketing\obj\x86\Debug\Marketing.pdb

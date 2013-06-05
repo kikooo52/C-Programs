@@ -1,0 +1,3 @@
+ки:4, PointY:5, PointZ:6
+ки:1, PointY:1, PointZ:0
+ки:3, PointY:3, PointZ:1

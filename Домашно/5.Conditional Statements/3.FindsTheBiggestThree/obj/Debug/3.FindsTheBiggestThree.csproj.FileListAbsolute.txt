@@ -1,0 +1,9 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\FindsTheBiggestThree\bin\Debug\FindsTheBiggestThree.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\FindsTheBiggestThree\bin\Debug\FindsTheBiggestThree.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\FindsTheBiggestThree\bin\Debug\FindsTheBiggestThree.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\FindsTheBiggestThree\obj\Debug\3.FindsTheBiggestThree.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\FindsTheBiggestThree\obj\Debug\FindsTheBiggestThree.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\FindsTheBiggestThree\obj\Debug\FindsTheBiggestThree.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\3.FindsTheBiggestThree\bin\Debug\FindsTheBiggestThree.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\3.FindsTheBiggestThree\obj\Debug\FindsTheBiggestThree.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\3.FindsTheBiggestThree\obj\Debug\FindsTheBiggestThree.pdb

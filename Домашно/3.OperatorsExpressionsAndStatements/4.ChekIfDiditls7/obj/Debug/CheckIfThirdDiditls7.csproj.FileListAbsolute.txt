@@ -1,0 +1,9 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\ChekIfDiditls7\bin\Debug\ChekIfDiditls7.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\ChekIfDiditls7\bin\Debug\ChekIfDiditls7.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\ChekIfDiditls7\bin\Debug\ChekIfDiditls7.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\ChekIfDiditls7\obj\Debug\CheckIfThirdDiditls7.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\ChekIfDiditls7\obj\Debug\ChekIfDiditls7.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\ChekIfDiditls7\obj\Debug\ChekIfDiditls7.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\4.ChekIfDiditls7\bin\Debug\ChekIfDiditls7.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\4.ChekIfDiditls7\obj\Debug\ChekIfDiditls7.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\4.ChekIfDiditls7\obj\Debug\ChekIfDiditls7.pdb

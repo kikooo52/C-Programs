@@ -1,0 +1,4 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\8.Declare two string\obj\x86\Debug\Declare two string.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\8.Declare two string\obj\x86\Debug\Declare two string.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\8.Declare two string\bin\Debug\Declare two string.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\8.Declare two string\bin\Debug\Declare two string.pdb

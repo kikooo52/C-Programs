@@ -1,0 +1,4 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\StringBuilder-Demo\bin\Debug\StringBuilder-Demo.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\StringBuilder-Demo\bin\Debug\StringBuilder-Demo.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\StringBuilder-Demo\obj\Debug\StringBuilder-Demo.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\StringBuilder-Demo\obj\Debug\StringBuilder-Demo.pdb

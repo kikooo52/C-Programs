@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\AppliesBonusScores\bin\Debug\AppliesBonusScores.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\AppliesBonusScores\bin\Debug\AppliesBonusScores.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\AppliesBonusScores\bin\Debug\AppliesBonusScores.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\AppliesBonusScores\obj\Debug\10.AppliesBonusScores.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\AppliesBonusScores\obj\Debug\AppliesBonusScores.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\AppliesBonusScores\obj\Debug\AppliesBonusScores.pdb

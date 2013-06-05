@@ -1,0 +1,7 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Splitting-Strings\bin\Debug\Splitting-Strings.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Splitting-Strings\bin\Debug\Splitting-Strings.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Splitting-Strings\obj\Debug\07. Splitting Strings.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Splitting-Strings\obj\Debug\Splitting-Strings.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Splitting-Strings\obj\Debug\Splitting-Strings.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\Demo\Splitting-Strings\obj\Debug\Splitting-Strings.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\Demo\Splitting-Strings\obj\Debug\Splitting-Strings.pdb

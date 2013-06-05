@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\5.RemoveNegativeNumbers\bin\Debug\5.RemoveNegativeNumbers.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\5.RemoveNegativeNumbers\bin\Debug\5.RemoveNegativeNumbers.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\5.RemoveNegativeNumbers\bin\Debug\5.RemoveNegativeNumbers.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\5.RemoveNegativeNumbers\obj\Debug\5.RemoveNegativeNumbers.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\5.RemoveNegativeNumbers\obj\Debug\5.RemoveNegativeNumbers.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\5.RemoveNegativeNumbers\obj\Debug\5.RemoveNegativeNumbers.csprojResolveAssemblyReference.cache

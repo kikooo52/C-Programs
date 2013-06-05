@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\1.ConvertDecimalNumbers\bin\Debug\1.ConvertDecimalNumbers.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\1.ConvertDecimalNumbers\bin\Debug\1.ConvertDecimalNumbers.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\1.ConvertDecimalNumbers\bin\Debug\1.ConvertDecimalNumbers.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\1.ConvertDecimalNumbers\obj\Debug\1.ConvertDecimalNumbers.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\1.ConvertDecimalNumbers\obj\Debug\1.ConvertDecimalNumbers.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\1.ConvertDecimalNumbers\obj\Debug\1.ConvertDecimalNumbers.pdb

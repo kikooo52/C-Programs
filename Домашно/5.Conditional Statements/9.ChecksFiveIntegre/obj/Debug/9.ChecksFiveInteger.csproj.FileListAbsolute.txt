@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\9.ChecksFiveIntegre\bin\Debug\ChecksFiveIntegre.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\9.ChecksFiveIntegre\obj\Debug\ChecksFiveIntegre.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\9.ChecksFiveIntegre\obj\Debug\ChecksFiveIntegre.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\9.ChecksFiveIntegre\bin\Debug\ChecksFiveIntegre.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\9.ChecksFiveIntegre\bin\Debug\ChecksFiveIntegre.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\9.ChecksFiveIntegre\obj\Debug\9.ChecksFiveInteger.csprojResolveAssemblyReference.cache

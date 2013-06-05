@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\1.SurfaceShape\1.SurfaceShape\bin\Debug\1.SurfaceShape.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\1.SurfaceShape\1.SurfaceShape\obj\Debug\1.SurfaceShape.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\1.SurfaceShape\1.SurfaceShape\bin\Debug\1.SurfaceShape.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\1.SurfaceShape\1.SurfaceShape\bin\Debug\1.SurfaceShape.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\1.SurfaceShape\1.SurfaceShape\obj\Debug\1.SurfaceShape.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\1.SurfaceShape\1.SurfaceShape\obj\Debug\1.SurfaceShape.pdb

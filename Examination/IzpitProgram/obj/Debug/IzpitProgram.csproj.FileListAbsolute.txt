@@ -1,0 +1,12 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\IzpitProgram\bin\Debug\IzpitProgram.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\IzpitProgram\bin\Debug\IzpitProgram.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\IzpitProgram\bin\Debug\IzpitProgram.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\IzpitProgram\obj\Debug\IzpitProgram.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\IzpitProgram\obj\Debug\IzpitProgram.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\IzpitProgram\obj\Debug\IzpitProgram.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\IzpitProgram\bin\Debug\IzpitProgram.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\IzpitProgram\obj\Debug\IzpitProgram.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\IzpitProgram\obj\Debug\IzpitProgram.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\IzpitProgram\obj\Debug\IzpitProgram.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\IzpitProgram\bin\Debug\IzpitProgram.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\IzpitProgram\bin\Debug\IzpitProgram.pdb

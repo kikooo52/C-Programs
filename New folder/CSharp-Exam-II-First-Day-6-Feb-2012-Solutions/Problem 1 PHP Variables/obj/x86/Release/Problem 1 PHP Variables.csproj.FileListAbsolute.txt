@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\New folder\CSharp-Exam-II-First-Day-6-Feb-2012-Solutions\Problem 1 PHP Variables\bin\Release\Problem 1 PHP Variables.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\New folder\CSharp-Exam-II-First-Day-6-Feb-2012-Solutions\Problem 1 PHP Variables\bin\Release\Problem 1 PHP Variables.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\New folder\CSharp-Exam-II-First-Day-6-Feb-2012-Solutions\Problem 1 PHP Variables\obj\x86\Release\Problem 1 PHP Variables.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\New folder\CSharp-Exam-II-First-Day-6-Feb-2012-Solutions\Problem 1 PHP Variables\obj\x86\Release\Problem 1 PHP Variables.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\New folder\CSharp-Exam-II-First-Day-6-Feb-2012-Solutions\Problem 1 PHP Variables\obj\x86\Release\Problem 1 PHP Variables.pdb

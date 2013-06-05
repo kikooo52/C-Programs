@@ -1,0 +1,7 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13\ReadingTextFiles\bin\Debug\ReadingTextFiles.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13\ReadingTextFiles\bin\Debug\ReadingTextFiles.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13\ReadingTextFiles\obj\Debug\1. Reading Text Files.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13\ReadingTextFiles\obj\Debug\ReadingTextFiles.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13\ReadingTextFiles\obj\Debug\ReadingTextFiles.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\Demo\ReadingTextFiles\obj\Debug\ReadingTextFiles.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\Demo\ReadingTextFiles\obj\Debug\ReadingTextFiles.pdb

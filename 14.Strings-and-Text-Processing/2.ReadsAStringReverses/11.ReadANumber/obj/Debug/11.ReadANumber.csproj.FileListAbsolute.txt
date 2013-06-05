@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\11.ReadANumber\bin\Debug\11.ReadANumber.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\11.ReadANumber\bin\Debug\11.ReadANumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\11.ReadANumber\bin\Debug\11.ReadANumber.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\11.ReadANumber\obj\Debug\11.ReadANumber.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\11.ReadANumber\obj\Debug\11.ReadANumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\11.ReadANumber\obj\Debug\11.ReadANumber.pdb

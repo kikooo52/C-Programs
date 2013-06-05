@@ -1,0 +1,12 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\7.GSMTest\bin\Debug\7.GSMTest.dll
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\7.GSMTest\bin\Debug\7.GSMTest.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\7.GSMTest\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\7.GSMTest\obj\Debug\7.GSMTest.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\7.GSMTest\obj\Debug\7.GSMTest.dll
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\7.GSMTest\obj\Debug\7.GSMTest.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\7.GSMTest\bin\Debug\6.IPhone4S.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\7.GSMTest\bin\Debug\mscorlib.4.0.0.0.Fakes.dll
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\7.GSMTest\bin\Debug\System.4.0.0.0.Fakes.dll
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\7.GSMTest\bin\Debug\6.IPhone4S.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\7.GSMTest\bin\Debug\mscorlib.4.0.0.0.Fakes.xml
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\7.GSMTest\bin\Debug\System.4.0.0.0.Fakes.xml

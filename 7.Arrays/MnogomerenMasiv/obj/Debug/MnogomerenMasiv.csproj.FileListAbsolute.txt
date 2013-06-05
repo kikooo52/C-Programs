@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\MnogomerenMasiv\bin\Debug\MnogomerenMasiv.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\MnogomerenMasiv\bin\Debug\MnogomerenMasiv.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\MnogomerenMasiv\bin\Debug\MnogomerenMasiv.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\MnogomerenMasiv\obj\Debug\MnogomerenMasiv.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\MnogomerenMasiv\obj\Debug\MnogomerenMasiv.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\MnogomerenMasiv\obj\Debug\MnogomerenMasiv.pdb

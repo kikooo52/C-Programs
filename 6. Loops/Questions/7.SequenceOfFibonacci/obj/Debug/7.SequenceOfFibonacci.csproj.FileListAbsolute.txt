@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\6.GivenTwoIntegerNumbersNandX\7.SequenceOfFibonacci\bin\Debug\7.SequenceOfFibonacci.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\6.GivenTwoIntegerNumbersNandX\7.SequenceOfFibonacci\bin\Debug\7.SequenceOfFibonacci.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\6.GivenTwoIntegerNumbersNandX\7.SequenceOfFibonacci\bin\Debug\7.SequenceOfFibonacci.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\6.GivenTwoIntegerNumbersNandX\7.SequenceOfFibonacci\obj\Debug\7.SequenceOfFibonacci.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\6.GivenTwoIntegerNumbersNandX\7.SequenceOfFibonacci\obj\Debug\7.SequenceOfFibonacci.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\6.GivenTwoIntegerNumbersNandX\7.SequenceOfFibonacci\obj\Debug\7.SequenceOfFibonacci.pdb

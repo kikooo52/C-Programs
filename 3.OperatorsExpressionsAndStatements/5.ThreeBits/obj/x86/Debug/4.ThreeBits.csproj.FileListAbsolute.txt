@@ -1,0 +1,2 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\5.ThreeBits\obj\x86\Debug\OperatorsExpressionsAndStatements.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\5.ThreeBits\obj\x86\Debug\OperatorsExpressionsAndStatements.pdb

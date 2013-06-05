@@ -1,0 +1,10 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\8.PrintNumber\bin\Debug\8.PrintNumber.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\8.PrintNumber\bin\Debug\8.PrintNumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\8.PrintNumber\bin\Debug\8.PrintNumber.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\8.PrintNumber\obj\Debug\8.PrintNumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\8.PrintNumber\obj\Debug\8.PrintNumber.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\4.ConsoleInputOutput\8.PrintNumber\bin\Debug\8.PrintNumber.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\4.ConsoleInputOutput\8.PrintNumber\obj\Debug\8.PrintNumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\4.ConsoleInputOutput\8.PrintNumber\obj\Debug\8.PrintNumber.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\4.ConsoleInputOutput\8.PrintNumber\bin\Debug\8.PrintNumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\4.ConsoleInputOutput\8.PrintNumber\bin\Debug\8.PrintNumber.pdb

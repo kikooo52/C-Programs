@@ -1,0 +1,7 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\Polymorphism\bin\Debug\Polymorphism.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\Polymorphism\obj\x86\Debug\2. Polymorphism.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\Polymorphism\obj\x86\Debug\Polymorphism.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\Polymorphism\obj\x86\Debug\Polymorphism.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\DEmo\Polymorphism\obj\x86\Debug\Polymorphism.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\DEmo\Polymorphism\obj\x86\Debug\Polymorphism.pdb

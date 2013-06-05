@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\PascalTriangle\bin\Debug\PascalTriangle.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\PascalTriangle\bin\Debug\PascalTriangle.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\PascalTriangle\obj\x86\Debug\5. PascalTriangle.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\PascalTriangle\obj\x86\Debug\PascalTriangle.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\PascalTriangle\obj\x86\Debug\PascalTriangle.pdb

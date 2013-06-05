@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril t\ConsoleApplication1\HexValue\bin\Debug\HexValue.exe
+C:\Documents and Settings\Kiril t\ConsoleApplication1\HexValue\bin\Debug\HexValue.pdb
+C:\Documents and Settings\Kiril t\ConsoleApplication1\HexValue\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril t\ConsoleApplication1\HexValue\obj\x86\Debug\HexValue.exe
+C:\Documents and Settings\Kiril t\ConsoleApplication1\HexValue\obj\x86\Debug\HexValue.pdb

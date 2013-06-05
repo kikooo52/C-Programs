@@ -1,0 +1,15 @@
+C:\Documents and Settings\Kiril t\OperatorsExpressionsAndStatements\OddEven\bin\Debug\OddEven.exe
+C:\Documents and Settings\Kiril t\OperatorsExpressionsAndStatements\OddEven\bin\Debug\OddEven.pdb
+C:\Documents and Settings\Kiril t\OperatorsExpressionsAndStatements\OddEven\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril t\OperatorsExpressionsAndStatements\OddEven\obj\x86\Debug\OddEven.exe
+C:\Documents and Settings\Kiril t\OperatorsExpressionsAndStatements\OddEven\obj\x86\Debug\OddEven.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\OddEven\obj\x86\Debug\OddEven.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\OddEven\obj\x86\Debug\OddEven.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\OddEven\bin\Debug\OddEven.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\OddEven\bin\Debug\OddEven.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\OddEven\obj\x86\Debug\OddEven.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\1.OddEven\obj\x86\Debug\OddEven.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\1.OddEven\obj\x86\Debug\OddEven.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\1.OddEven\bin\Debug\OddEven.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\1.OddEven\bin\Debug\OddEven.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\1.OddEven\obj\x86\Debug\OddEven.csprojResolveAssemblyReference.cache

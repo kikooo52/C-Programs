@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\6.DivisibleBy7And3\bin\Debug\6.DivisibleBy7And3.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\6.DivisibleBy7And3\bin\Debug\6.DivisibleBy7And3.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\6.DivisibleBy7And3\bin\Debug\6.DivisibleBy7And3.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\6.DivisibleBy7And3\obj\Debug\6.DivisibleBy7And3.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\6.DivisibleBy7And3\obj\Debug\6.DivisibleBy7And3.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\6.DivisibleBy7And3\obj\Debug\6.DivisibleBy7And3.pdb

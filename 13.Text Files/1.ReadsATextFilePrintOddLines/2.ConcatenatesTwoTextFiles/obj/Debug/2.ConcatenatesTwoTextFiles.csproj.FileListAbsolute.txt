@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\2.ConcatenatesTwoTextFiles\bin\Debug\2.ConcatenatesTwoTextFiles.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\2.ConcatenatesTwoTextFiles\bin\Debug\2.ConcatenatesTwoTextFiles.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\2.ConcatenatesTwoTextFiles\bin\Debug\2.ConcatenatesTwoTextFiles.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\2.ConcatenatesTwoTextFiles\obj\Debug\2.ConcatenatesTwoTextFiles.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\2.ConcatenatesTwoTextFiles\obj\Debug\2.ConcatenatesTwoTextFiles.pdb

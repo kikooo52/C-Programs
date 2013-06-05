@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Guitar\Guitar\bin\Debug\Guitar.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Guitar\Guitar\bin\Debug\Guitar.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Guitar\Guitar\bin\Debug\Guitar.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Guitar\Guitar\obj\Debug\Guitar.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Guitar\Guitar\obj\Debug\Guitar.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\Guitar\Guitar\obj\Debug\Guitar.pdb

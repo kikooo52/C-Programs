@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\7.Висококачествени методи\7. High-Quality-Methods-Homework\Methods\bin\Debug\Methods.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\7.Висококачествени методи\7. High-Quality-Methods-Homework\Methods\bin\Debug\Methods.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\7.Висококачествени методи\7. High-Quality-Methods-Homework\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\7.Висококачествени методи\7. High-Quality-Methods-Homework\Methods\obj\Debug\Methods.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\7.Висококачествени методи\7. High-Quality-Methods-Homework\Methods\obj\Debug\Methods.pdb

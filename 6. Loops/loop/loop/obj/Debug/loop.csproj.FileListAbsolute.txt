@@ -1,0 +1,7 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\loop\bin\Debug\loop.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\loop\bin\Debug\loop.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\loop\bin\Debug\loop.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\loop\obj\Debug\loop.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\loop\obj\Debug\loop.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\loop\obj\Debug\loop.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loop\loop\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll

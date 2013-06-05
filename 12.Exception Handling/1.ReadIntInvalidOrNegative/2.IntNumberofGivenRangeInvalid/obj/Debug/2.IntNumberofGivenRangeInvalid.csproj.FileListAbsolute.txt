@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\1.ReadIntInvalidOrNegative\2.IntNumberofGivenRangeInvalid\bin\Debug\2.IntNumberofGivenRangeInvalid.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\1.ReadIntInvalidOrNegative\2.IntNumberofGivenRangeInvalid\bin\Debug\2.IntNumberofGivenRangeInvalid.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\1.ReadIntInvalidOrNegative\2.IntNumberofGivenRangeInvalid\bin\Debug\2.IntNumberofGivenRangeInvalid.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\1.ReadIntInvalidOrNegative\2.IntNumberofGivenRangeInvalid\obj\Debug\2.IntNumberofGivenRangeInvalid.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\1.ReadIntInvalidOrNegative\2.IntNumberofGivenRangeInvalid\obj\Debug\2.IntNumberofGivenRangeInvalid.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\1.ReadIntInvalidOrNegative\2.IntNumberofGivenRangeInvalid\obj\Debug\2.IntNumberofGivenRangeInvalid.csprojResolveAssemblyReference.cache

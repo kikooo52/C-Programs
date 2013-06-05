@@ -1,0 +1,8 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\10.PossibleCardsWithoutJokers\12.PositiveIntegerMatrix\bin\Debug\12.PositiveIntegerMatrix.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\10.PossibleCardsWithoutJokers\12.PositiveIntegerMatrix\bin\Debug\12.PositiveIntegerMatrix.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\10.PossibleCardsWithoutJokers\12.PositiveIntegerMatrix\bin\Debug\12.PositiveIntegerMatrix.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\10.PossibleCardsWithoutJokers\12.PositiveIntegerMatrix\obj\Debug\12.PositiveIntegerMatrix.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\10.PossibleCardsWithoutJokers\12.PositiveIntegerMatrix\obj\Debug\12.PositiveIntegerMatrix.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\12.PositiveIntegerMatrix\bin\Debug\12.PositiveIntegerMatrix.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\12.PositiveIntegerMatrix\obj\Debug\12.PositiveIntegerMatrix.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\12.PositiveIntegerMatrix\obj\Debug\12.PositiveIntegerMatrix.pdb

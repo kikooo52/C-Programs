@@ -1,0 +1,13 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\10.PossibleCardsWithoutJokers\10.PossibleCardsWithoutJokers\bin\Debug\10.PossibleCardsWithoutJokers.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\10.PossibleCardsWithoutJokers\10.PossibleCardsWithoutJokers\bin\Debug\10.PossibleCardsWithoutJokers.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\10.PossibleCardsWithoutJokers\10.PossibleCardsWithoutJokers\bin\Debug\10.PossibleCardsWithoutJokers.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\10.PossibleCardsWithoutJokers\10.PossibleCardsWithoutJokers\obj\Debug\10.PossibleCardsWithoutJokers.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\10.PossibleCardsWithoutJokers\10.PossibleCardsWithoutJokers\obj\Debug\10.PossibleCardsWithoutJokers.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\11.PossibleCardsWithoutJokers\10.PossibleCardsWithoutJokers\bin\Debug\10.PossibleCardsWithoutJokers.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\11.PossibleCardsWithoutJokers\10.PossibleCardsWithoutJokers\obj\Debug\10.PossibleCardsWithoutJokers.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\11.PossibleCardsWithoutJokers\10.PossibleCardsWithoutJokers\obj\Debug\10.PossibleCardsWithoutJokers.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\11.PossibleCardsWithoutJokers\10.PossibleCardsWithoutJokers\bin\Debug\10.PossibleCardsWithoutJokers.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\11.PossibleCardsWithoutJokers\10.PossibleCardsWithoutJokers\bin\Debug\10.PossibleCardsWithoutJokers.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\11.PossibleCardsWithoutJokers\11.PossibleCardsWithoutJokers\bin\Debug\10.PossibleCardsWithoutJokers.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\11.PossibleCardsWithoutJokers\11.PossibleCardsWithoutJokers\obj\Debug\10.PossibleCardsWithoutJokers.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\11.PossibleCardsWithoutJokers\11.PossibleCardsWithoutJokers\obj\Debug\10.PossibleCardsWithoutJokers.pdb

@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\6.Common-Type-System\Demo\ObjectCloning\bin\Debug\_3.ObjectCloning.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\6.Common-Type-System\Demo\ObjectCloning\bin\Debug\_3.ObjectCloning.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\6.Common-Type-System\Demo\ObjectCloning\obj\x86\Debug\03. Object Cloning.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\6.Common-Type-System\Demo\ObjectCloning\obj\x86\Debug\_3.ObjectCloning.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\6.Common-Type-System\Demo\ObjectCloning\obj\x86\Debug\_3.ObjectCloning.pdb

@@ -1,0 +1,4 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\BinarySearch\obj\x86\Debug\BinarySearch.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\demo\BinarySearch\obj\x86\Debug\BinarySearch.pdb

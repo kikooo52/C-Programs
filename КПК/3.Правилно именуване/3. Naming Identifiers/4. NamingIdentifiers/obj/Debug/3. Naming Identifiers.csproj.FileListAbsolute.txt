@@ -1,0 +1,12 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\4.Документиране и коментиране на код\3. Naming Identifiers\3. Naming Identifiers\bin\Debug\_3.Naming_Identifiers.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\4.Документиране и коментиране на код\3. Naming Identifiers\3. Naming Identifiers\bin\Debug\_3.Naming_Identifiers.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\4.Документиране и коментиране на код\3. Naming Identifiers\3. Naming Identifiers\bin\Debug\_3.Naming_Identifiers.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\4.Документиране и коментиране на код\3. Naming Identifiers\3. Naming Identifiers\obj\Debug\3. Naming Identifiers.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\4.Документиране и коментиране на код\3. Naming Identifiers\3. Naming Identifiers\obj\Debug\_3.Naming_Identifiers.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\4.Документиране и коментиране на код\3. Naming Identifiers\3. Naming Identifiers\obj\Debug\_3.Naming_Identifiers.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\3. Naming Identifiers\bin\Debug\_3.Naming_Identifiers.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\3. Naming Identifiers\obj\Debug\_3.Naming_Identifiers.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\3. Naming Identifiers\obj\Debug\_3.Naming_Identifiers.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\3. Naming Identifiers\bin\Debug\_3.Naming_Identifiers.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\3. Naming Identifiers\bin\Debug\_3.Naming_Identifiers.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\3. Naming Identifiers\obj\Debug\3. Naming Identifiers.csprojResolveAssemblyReference.cache

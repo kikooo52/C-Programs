@@ -1,0 +1,9 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\2.ReadsAStringReverses\bin\Debug\2.ReadsAStringReverses.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\2.ReadsAStringReverses\bin\Debug\2.ReadsAStringReverses.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\2.ReadsAStringReverses\bin\Debug\2.ReadsAStringReverses.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\2.ReadsAStringReverses\obj\Debug\2.ReadsAStringReverses.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\2.ReadsAStringReverses\obj\Debug\2.ReadsAStringReverses.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\2.ReadsAStringReverses\obj\Debug\2.ReadsAStringReverses.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\2.ReadsAStringReverses\bin\Debug\2.ReadsAStringReverses.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\2.ReadsAStringReverses\obj\Debug\2.ReadsAStringReverses.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\2.ReadsAStringReverses\obj\Debug\2.ReadsAStringReverses.pdb

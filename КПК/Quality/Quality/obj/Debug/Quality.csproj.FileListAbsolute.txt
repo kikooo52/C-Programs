@@ -1,0 +1,2 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\Quality\Quality\bin\Debug\Quality.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\Quality\Quality\obj\Debug\Quality.csprojResolveAssemblyReference.cache

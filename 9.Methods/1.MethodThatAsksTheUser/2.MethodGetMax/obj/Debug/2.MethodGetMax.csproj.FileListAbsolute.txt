@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\2.MethodGetMax\bin\Debug\2.MethodGetMax.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\2.MethodGetMax\bin\Debug\2.MethodGetMax.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\2.MethodGetMax\bin\Debug\2.MethodGetMax.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\2.MethodGetMax\obj\Debug\2.MethodGetMax.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\2.MethodGetMax\obj\Debug\2.MethodGetMax.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\1.MethodThatAsksTheUser\2.MethodGetMax\obj\Debug\2.MethodGetMax.csprojResolveAssemblyReference.cache

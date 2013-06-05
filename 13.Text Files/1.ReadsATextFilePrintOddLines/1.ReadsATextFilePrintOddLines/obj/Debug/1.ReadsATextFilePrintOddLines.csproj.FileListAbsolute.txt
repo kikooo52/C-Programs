@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\1.ReadsATextFilePrintOddLines\bin\Debug\1.ReadsATextFilePrintOddLines.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\1.ReadsATextFilePrintOddLines\bin\Debug\1.ReadsATextFilePrintOddLines.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\1.ReadsATextFilePrintOddLines\bin\Debug\1.ReadsATextFilePrintOddLines.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\1.ReadsATextFilePrintOddLines\obj\Debug\1.ReadsATextFilePrintOddLines.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\1.ReadsATextFilePrintOddLines\obj\Debug\1.ReadsATextFilePrintOddLines.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\1.ReadsATextFilePrintOddLines\obj\Debug\1.ReadsATextFilePrintOddLines.pdb

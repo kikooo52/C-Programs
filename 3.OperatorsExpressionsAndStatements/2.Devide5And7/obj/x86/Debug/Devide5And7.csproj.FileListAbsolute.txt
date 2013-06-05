@@ -1,0 +1,11 @@
+C:\Documents and Settings\Kiril t\OperatorsExpressionsAndStatements\Devide5And7\bin\Debug\Devide5And7.exe
+C:\Documents and Settings\Kiril t\OperatorsExpressionsAndStatements\Devide5And7\bin\Debug\Devide5And7.pdb
+C:\Documents and Settings\Kiril t\OperatorsExpressionsAndStatements\Devide5And7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril t\OperatorsExpressionsAndStatements\Devide5And7\obj\x86\Debug\Devide5And7.exe
+C:\Documents and Settings\Kiril t\OperatorsExpressionsAndStatements\Devide5And7\obj\x86\Debug\Devide5And7.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\Devide5And7\obj\x86\Debug\Devide5And7.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\Devide5And7\obj\x86\Debug\Devide5And7.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\Devide5And7\bin\Debug\Devide5And7.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\Devide5And7\bin\Debug\Devide5And7.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\2.Devide5And7\obj\x86\Debug\Devide5And7.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\2.Devide5And7\obj\x86\Debug\Devide5And7.pdb

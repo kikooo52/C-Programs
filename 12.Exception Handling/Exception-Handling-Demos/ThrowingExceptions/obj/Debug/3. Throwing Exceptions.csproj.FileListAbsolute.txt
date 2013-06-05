@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\Exception-Handling-Demos\ThrowingExceptions\bin\Debug\ThrowingExceptions.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\Exception-Handling-Demos\ThrowingExceptions\bin\Debug\ThrowingExceptions.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\Exception-Handling-Demos\ThrowingExceptions\obj\Debug\3. Throwing Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\Exception-Handling-Demos\ThrowingExceptions\obj\Debug\ThrowingExceptions.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\Exception-Handling-Demos\ThrowingExceptions\obj\Debug\ThrowingExceptions.pdb

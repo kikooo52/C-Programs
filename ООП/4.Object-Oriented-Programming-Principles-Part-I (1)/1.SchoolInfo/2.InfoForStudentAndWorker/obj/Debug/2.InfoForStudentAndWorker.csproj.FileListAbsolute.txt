@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\1.SchoolInfo\2.InfoForStudentAndWorker\bin\Debug\2.InfoForStudentAndWorker.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\1.SchoolInfo\2.InfoForStudentAndWorker\bin\Debug\2.InfoForStudentAndWorker.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\1.SchoolInfo\2.InfoForStudentAndWorker\bin\Debug\2.InfoForStudentAndWorker.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\1.SchoolInfo\2.InfoForStudentAndWorker\obj\Debug\2.InfoForStudentAndWorker.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\1.SchoolInfo\2.InfoForStudentAndWorker\obj\Debug\2.InfoForStudentAndWorker.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\1.SchoolInfo\2.InfoForStudentAndWorker\obj\Debug\2.InfoForStudentAndWorker.pdb

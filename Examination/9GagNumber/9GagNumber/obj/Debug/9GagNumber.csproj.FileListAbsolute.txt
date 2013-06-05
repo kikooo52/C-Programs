@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\9GagNumber\9GagNumber\bin\Debug\9GagNumber.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\9GagNumber\9GagNumber\bin\Debug\9GagNumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\9GagNumber\9GagNumber\bin\Debug\9GagNumber.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\9GagNumber\9GagNumber\obj\Debug\9GagNumber.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\9GagNumber\9GagNumber\obj\Debug\9GagNumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Examination\9GagNumber\9GagNumber\obj\Debug\9GagNumber.pdb

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.ReadsATextFilePrintOddLines", "1.ReadsATextFilePrintOddLines\1.ReadsATextFilePrintOddLines.csproj", "{04BF87A9-D21C-4638-842C-BF147334FF63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConcatenatesTwoTextFiles", "2.ConcatenatesTwoTextFiles\2.ConcatenatesTwoTextFiles.csproj", "{40F4160D-7E0B-453A-A55E-335A53A56F2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.ReadsATextFileAndInsertLine", "3.ReadsATextFileAndInsertLine\3.ReadsATextFileAndInsertLine.csproj", "{1FB5CAA4-B929-444C-81E4-CEFFE35F436D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.ComparesTwoTextFilesLineByLine", "4.ComparesTwoTextFilesLineByLine\4.ComparesTwoTextFilesLineByLine.csproj", "{57A71029-ADDA-4198-82E6-ED83AF9819FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04BF87A9-D21C-4638-842C-BF147334FF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04BF87A9-D21C-4638-842C-BF147334FF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04BF87A9-D21C-4638-842C-BF147334FF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04BF87A9-D21C-4638-842C-BF147334FF63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40F4160D-7E0B-453A-A55E-335A53A56F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F4160D-7E0B-453A-A55E-335A53A56F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F4160D-7E0B-453A-A55E-335A53A56F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F4160D-7E0B-453A-A55E-335A53A56F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB5CAA4-B929-444C-81E4-CEFFE35F436D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB5CAA4-B929-444C-81E4-CEFFE35F436D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB5CAA4-B929-444C-81E4-CEFFE35F436D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB5CAA4-B929-444C-81E4-CEFFE35F436D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57A71029-ADDA-4198-82E6-ED83AF9819FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A71029-ADDA-4198-82E6-ED83AF9819FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A71029-ADDA-4198-82E6-ED83AF9819FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A71029-ADDA-4198-82E6-ED83AF9819FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

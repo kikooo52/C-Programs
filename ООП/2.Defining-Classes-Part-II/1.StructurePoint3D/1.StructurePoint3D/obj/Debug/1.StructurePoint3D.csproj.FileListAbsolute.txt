@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\1.StructurePoint3D\1.StructurePoint3D\bin\Debug\1.StructurePoint3D.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\1.StructurePoint3D\1.StructurePoint3D\obj\Debug\1.StructurePoint3D.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\1.StructurePoint3D\1.StructurePoint3D\bin\Debug\1.StructurePoint3D.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\1.StructurePoint3D\1.StructurePoint3D\bin\Debug\1.StructurePoint3D.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\1.StructurePoint3D\1.StructurePoint3D\obj\Debug\1.StructurePoint3D.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\1.StructurePoint3D\1.StructurePoint3D\obj\Debug\1.StructurePoint3D.pdb

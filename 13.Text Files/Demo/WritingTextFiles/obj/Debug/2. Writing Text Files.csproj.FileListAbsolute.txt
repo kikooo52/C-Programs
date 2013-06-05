@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13\WritingTextFiles\bin\Debug\WritingTextFiles.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13\WritingTextFiles\bin\Debug\WritingTextFiles.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13\WritingTextFiles\obj\Debug\WritingTextFiles.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13\WritingTextFiles\obj\Debug\WritingTextFiles.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\Demo\WritingTextFiles\obj\Debug\WritingTextFiles.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\Demo\WritingTextFiles\obj\Debug\WritingTextFiles.pdb

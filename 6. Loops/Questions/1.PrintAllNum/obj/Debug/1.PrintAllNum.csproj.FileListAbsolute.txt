@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\1.PrintAllNum\bin\Debug\1.PrintAllNum.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\1.PrintAllNum\bin\Debug\1.PrintAllNum.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\1.PrintAllNum\bin\Debug\1.PrintAllNum.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\1.PrintAllNum\obj\Debug\1.PrintAllNum.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\1.PrintAllNum\obj\Debug\1.PrintAllNum.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\1.PrintAllNum\obj\Debug\1.PrintAllNum.pdb

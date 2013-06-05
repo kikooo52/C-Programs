@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\Exception-Handling-Demos\TryFinally\bin\Debug\TryFinally.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\Exception-Handling-Demos\TryFinally\bin\Debug\TryFinally.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\Exception-Handling-Demos\TryFinally\obj\Debug\4. Try - Finally.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\Exception-Handling-Demos\TryFinally\obj\Debug\TryFinally.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\Exception-Handling-Demos\TryFinally\obj\Debug\TryFinally.pdb

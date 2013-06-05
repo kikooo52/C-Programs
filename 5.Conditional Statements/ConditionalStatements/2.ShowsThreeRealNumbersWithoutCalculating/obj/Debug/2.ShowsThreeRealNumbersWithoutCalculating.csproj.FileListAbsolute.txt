@@ -1,0 +1,9 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\ShowsThreeRealNumbersWithoutCalculating\bin\Debug\ShowsThreeRealNumbersWithoutCalculating.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\ShowsThreeRealNumbersWithoutCalculating\obj\Debug\ShowsThreeRealNumbersWithoutCalculating.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\ShowsThreeRealNumbersWithoutCalculating\obj\Debug\ShowsThreeRealNumbersWithoutCalculating.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\ShowsThreeRealNumbersWithoutCalculating\bin\Debug\ShowsThreeRealNumbersWithoutCalculating.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\ShowsThreeRealNumbersWithoutCalculating\bin\Debug\ShowsThreeRealNumbersWithoutCalculating.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\ShowsThreeRealNumbersWithoutCalculating\obj\Debug\2.ShowsThreeRealNumbersWithoutCalculating.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\2.ShowsThreeRealNumbersWithoutCalculating\bin\Debug\ShowsThreeRealNumbersWithoutCalculating.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\2.ShowsThreeRealNumbersWithoutCalculating\obj\Debug\ShowsThreeRealNumbersWithoutCalculating.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\2.ShowsThreeRealNumbersWithoutCalculating\obj\Debug\ShowsThreeRealNumbersWithoutCalculating.pdb

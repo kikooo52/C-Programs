@@ -1,0 +1,12 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\1.InformationForMobile\bin\Debug\1.InformationForMobile.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\1.InformationForMobile\bin\Debug\1.InformationForMobile.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\1.InformationForMobile\bin\Debug\1.InformationForMobile.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\1.InformationForMobile\obj\Debug\1.InformationForMobile.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\1.InformationForMobile\obj\Debug\1.InformationForMobile.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\Defining-Classes-Part-I\1.InformationForMobile\1.InformationForMobile\obj\Debug\1.InformationForMobile.pdb
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\1.InformationForMobile\bin\Debug\1.InformationForMobile.exe.config
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\1.InformationForMobile\obj\Debug\1.InformationForMobile.exe
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\1.InformationForMobile\obj\Debug\1.InformationForMobile.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\1.Defining-Classes-Part-I\1.InformationForMobile\1.InformationForMobile\bin\Debug\1.InformationForMobile.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\1.Defining-Classes-Part-I\1.InformationForMobile\1.InformationForMobile\obj\Debug\1.InformationForMobile.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\1.Defining-Classes-Part-I\1.InformationForMobile\1.InformationForMobile\obj\Debug\1.InformationForMobile.pdb

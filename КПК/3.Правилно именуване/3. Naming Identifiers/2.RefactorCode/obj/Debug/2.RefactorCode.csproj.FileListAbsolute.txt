@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\2.RefactorCode\obj\Debug\2.RefactorCode.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\2.RefactorCode\bin\Debug\2.RefactorCode.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\2.RefactorCode\bin\Debug\2.RefactorCode.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\2.RefactorCode\bin\Debug\2.RefactorCode.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\2.RefactorCode\obj\Debug\2.RefactorCode.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\3.Правилно именуване\3. Naming Identifiers\2.RefactorCode\obj\Debug\2.RefactorCode.pdb

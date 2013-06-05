@@ -1,0 +1,4 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\9.Marketing\obj\x86\Debug\Marketing.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\9.Marketing\obj\x86\Debug\Marketing.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\9.Marketing\bin\Debug\Marketing.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\9.Marketing\bin\Debug\Marketing.pdb

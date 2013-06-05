@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril t\ConsoleApplication1\BoolVariable\bin\Debug\BoolVariable.exe
+C:\Documents and Settings\Kiril t\ConsoleApplication1\BoolVariable\bin\Debug\BoolVariable.pdb
+C:\Documents and Settings\Kiril t\ConsoleApplication1\BoolVariable\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril t\ConsoleApplication1\BoolVariable\obj\x86\Debug\BoolVariable.exe
+C:\Documents and Settings\Kiril t\ConsoleApplication1\BoolVariable\obj\x86\Debug\BoolVariable.pdb

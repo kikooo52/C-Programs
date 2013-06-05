@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril t\ConsoleApplication1\Declare two string\bin\Debug\Declare two string.exe
+C:\Documents and Settings\Kiril t\ConsoleApplication1\Declare two string\bin\Debug\Declare two string.pdb
+C:\Documents and Settings\Kiril t\ConsoleApplication1\Declare two string\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril t\ConsoleApplication1\Declare two string\obj\x86\Debug\Declare two string.exe
+C:\Documents and Settings\Kiril t\ConsoleApplication1\Declare two string\obj\x86\Debug\Declare two string.pdb

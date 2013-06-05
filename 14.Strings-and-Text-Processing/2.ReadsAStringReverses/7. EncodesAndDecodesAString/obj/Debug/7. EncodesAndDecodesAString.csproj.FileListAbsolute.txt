@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\7. EncodesAndDecodesAString\bin\Debug\_7.EncodesAndDecodesAString.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\7. EncodesAndDecodesAString\bin\Debug\_7.EncodesAndDecodesAString.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\7. EncodesAndDecodesAString\bin\Debug\_7.EncodesAndDecodesAString.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\7. EncodesAndDecodesAString\obj\Debug\_7.EncodesAndDecodesAString.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\7. EncodesAndDecodesAString\obj\Debug\_7.EncodesAndDecodesAString.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\7. EncodesAndDecodesAString\obj\Debug\7. EncodesAndDecodesAString.csprojResolveAssemblyReference.cache

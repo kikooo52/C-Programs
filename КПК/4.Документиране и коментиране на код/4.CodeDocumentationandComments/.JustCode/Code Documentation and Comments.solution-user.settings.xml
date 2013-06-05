@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="4b267c5f-763c-43e2-9341-dae3c9a4b0f5">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>Code%20Documentation%20and%20Comments/StringExtensions.cs</FileRelativePath>
+        <ProjectRelativePath>Code%20Documentation%20and%20Comments/Code%20Documentation%20and%20Comments.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>16283580550538397437</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

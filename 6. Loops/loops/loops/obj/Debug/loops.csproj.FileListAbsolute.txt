@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loops\loops\bin\Debug\loops.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loops\loops\bin\Debug\loops.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loops\loops\bin\Debug\loops.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loops\loops\obj\Debug\loops.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\loops\loops\obj\Debug\loops.pdb

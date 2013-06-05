@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\1.20ElementsMultiplying\bin\Debug\1.20ElementsMultiplying.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\1.20ElementsMultiplying\bin\Debug\1.20ElementsMultiplying.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\1.20ElementsMultiplying\bin\Debug\1.20ElementsMultiplying.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\1.20ElementsMultiplying\obj\Debug\1.20ElementsMultiplying.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\1.20ElementsMultiplying\obj\Debug\1.20ElementsMultiplying.pdb

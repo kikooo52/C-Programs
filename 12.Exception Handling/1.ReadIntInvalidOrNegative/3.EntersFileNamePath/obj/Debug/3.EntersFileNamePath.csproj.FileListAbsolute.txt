@@ -1,0 +1,11 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\1.ReadIntInvalidOrNegative\3.EntersFileNamePath\bin\Debug\3.EntersFileNamePath.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\1.ReadIntInvalidOrNegative\3.EntersFileNamePath\bin\Debug\3.EntersFileNamePath.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\1.ReadIntInvalidOrNegative\3.EntersFileNamePath\bin\Debug\3.EntersFileNamePath.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\1.ReadIntInvalidOrNegative\3.EntersFileNamePath\obj\Debug\3.EntersFileNamePath.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12\1.ReadIntInvalidOrNegative\3.EntersFileNamePath\obj\Debug\3.EntersFileNamePath.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12.Exception Handling\1.ReadIntInvalidOrNegative\3.EntersFileNamePath\bin\Debug\3.EntersFileNamePath.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12.Exception Handling\1.ReadIntInvalidOrNegative\3.EntersFileNamePath\obj\Debug\3.EntersFileNamePath.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12.Exception Handling\1.ReadIntInvalidOrNegative\3.EntersFileNamePath\obj\Debug\3.EntersFileNamePath.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12.Exception Handling\1.ReadIntInvalidOrNegative\3.EntersFileNamePath\bin\Debug\3.EntersFileNamePath.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12.Exception Handling\1.ReadIntInvalidOrNegative\3.EntersFileNamePath\bin\Debug\3.EntersFileNamePath.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\12.Exception Handling\1.ReadIntInvalidOrNegative\3.EntersFileNamePath\obj\Debug\3.EntersFileNamePath.csprojResolveAssemblyReference.cache

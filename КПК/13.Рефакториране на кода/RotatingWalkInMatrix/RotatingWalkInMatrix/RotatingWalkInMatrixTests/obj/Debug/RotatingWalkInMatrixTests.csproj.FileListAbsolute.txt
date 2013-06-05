@@ -1,0 +1,7 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\13.Рефакториране на кода\RotatingWalkInMatrix\RotatingWalkInMatrix\RotatingWalkInMatrixTests\bin\Debug\RotatingWalkInMatrixTests.dll
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\13.Рефакториране на кода\RotatingWalkInMatrix\RotatingWalkInMatrix\RotatingWalkInMatrixTests\bin\Debug\RotatingWalkInMatrixTests.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\13.Рефакториране на кода\RotatingWalkInMatrix\RotatingWalkInMatrix\RotatingWalkInMatrixTests\obj\Debug\RotatingWalkInMatrixTests.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\13.Рефакториране на кода\RotatingWalkInMatrix\RotatingWalkInMatrix\RotatingWalkInMatrixTests\obj\Debug\RotatingWalkInMatrixTests.dll
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\13.Рефакториране на кода\RotatingWalkInMatrix\RotatingWalkInMatrix\RotatingWalkInMatrixTests\obj\Debug\RotatingWalkInMatrixTests.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\13.Рефакториране на кода\RotatingWalkInMatrix\RotatingWalkInMatrix\RotatingWalkInMatrixTests\bin\Debug\RotatingWalkInMatrix.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\13.Рефакториране на кода\RotatingWalkInMatrix\RotatingWalkInMatrix\RotatingWalkInMatrixTests\bin\Debug\RotatingWalkInMatrix.pdb

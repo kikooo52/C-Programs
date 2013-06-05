@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril t\ConsoleApplication1\UniCode\bin\Debug\UniCode.exe
+C:\Documents and Settings\Kiril t\ConsoleApplication1\UniCode\bin\Debug\UniCode.pdb
+C:\Documents and Settings\Kiril t\ConsoleApplication1\UniCode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril t\ConsoleApplication1\UniCode\obj\x86\Debug\UniCode.exe
+C:\Documents and Settings\Kiril t\ConsoleApplication1\UniCode\obj\x86\Debug\UniCode.pdb

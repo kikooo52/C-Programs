@@ -1,0 +1,8 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\9.FibonacciNumber\bin\Debug\9.FibonacciNumber.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\9.FibonacciNumber\bin\Debug\9.FibonacciNumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\9.FibonacciNumber\bin\Debug\9.FibonacciNumber.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\9.FibonacciNumber\obj\Debug\9.FibonacciNumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\ReadThreeInt\9.FibonacciNumber\obj\Debug\9.FibonacciNumber.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\4.ConsoleInputOutput\9.FibonacciNumber\bin\Debug\9.FibonacciNumber.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\4.ConsoleInputOutput\9.FibonacciNumber\obj\Debug\9.FibonacciNumber.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\04.ConsoleInputOutput\4.ConsoleInputOutput\9.FibonacciNumber\obj\Debug\9.FibonacciNumber.pdb

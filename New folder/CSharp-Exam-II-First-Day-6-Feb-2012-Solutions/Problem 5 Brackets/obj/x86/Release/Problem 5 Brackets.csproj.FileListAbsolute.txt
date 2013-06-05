@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\New folder\CSharp-Exam-II-First-Day-6-Feb-2012-Solutions\Problem 5 Brackets\bin\Release\Problem 5 Brackets.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\New folder\CSharp-Exam-II-First-Day-6-Feb-2012-Solutions\Problem 5 Brackets\bin\Release\Problem 5 Brackets.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\New folder\CSharp-Exam-II-First-Day-6-Feb-2012-Solutions\Problem 5 Brackets\obj\x86\Release\Problem 5 Brackets.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\New folder\CSharp-Exam-II-First-Day-6-Feb-2012-Solutions\Problem 5 Brackets\obj\x86\Release\Problem 5 Brackets.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\New folder\CSharp-Exam-II-First-Day-6-Feb-2012-Solutions\Problem 5 Brackets\obj\x86\Release\Problem 5 Brackets.pdb

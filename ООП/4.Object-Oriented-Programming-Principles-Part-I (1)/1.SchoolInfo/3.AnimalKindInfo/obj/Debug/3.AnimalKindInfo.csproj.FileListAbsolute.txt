@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\1.SchoolInfo\3.AnimalKindInfo\bin\Debug\3.AnimalKindInfo.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\1.SchoolInfo\3.AnimalKindInfo\bin\Debug\3.AnimalKindInfo.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\1.SchoolInfo\3.AnimalKindInfo\bin\Debug\3.AnimalKindInfo.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\1.SchoolInfo\3.AnimalKindInfo\obj\Debug\3.AnimalKindInfo.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\1.SchoolInfo\3.AnimalKindInfo\obj\Debug\3.AnimalKindInfo.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\1.SchoolInfo\3.AnimalKindInfo\obj\Debug\3.AnimalKindInfo.pdb

@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Simple-Inheritance\bin\Debug\Simple Inheritance.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Simple-Inheritance\bin\Debug\Simple Inheritance.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Simple-Inheritance\obj\x86\Debug\1. Simple-Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Simple-Inheritance\obj\x86\Debug\Simple Inheritance.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\4.Object-Oriented-Programming-Principles-Part-I (1)\demo\Simple-Inheritance\obj\x86\Debug\Simple Inheritance.pdb

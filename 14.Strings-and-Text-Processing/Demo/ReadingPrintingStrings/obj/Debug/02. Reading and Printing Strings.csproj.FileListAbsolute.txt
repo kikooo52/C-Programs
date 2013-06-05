@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\ReadingPrintingStrings\bin\Debug\ReadingPrintingStrings.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\ReadingPrintingStrings\bin\Debug\ReadingPrintingStrings.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\ReadingPrintingStrings\obj\Debug\ReadingPrintingStrings.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\ReadingPrintingStrings\obj\Debug\ReadingPrintingStrings.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\Demo\ReadingPrintingStrings\obj\Debug\ReadingPrintingStrings.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\Demo\ReadingPrintingStrings\obj\Debug\ReadingPrintingStrings.pdb

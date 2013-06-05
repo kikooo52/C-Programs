@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\8.IntDoubleOrStringVariable\bin\Debug\8.IntDoubleOrStringVariable.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\8.IntDoubleOrStringVariable\bin\Debug\8.IntDoubleOrStringVariable.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\8.IntDoubleOrStringVariable\bin\Debug\8.IntDoubleOrStringVariable.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\8.IntDoubleOrStringVariable\obj\Debug\8.IntDoubleOrStringVariable.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\8.IntDoubleOrStringVariable\obj\Debug\8.IntDoubleOrStringVariable.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\8.IntDoubleOrStringVariable\obj\Debug\8.IntDoubleOrStringVariable.pdb

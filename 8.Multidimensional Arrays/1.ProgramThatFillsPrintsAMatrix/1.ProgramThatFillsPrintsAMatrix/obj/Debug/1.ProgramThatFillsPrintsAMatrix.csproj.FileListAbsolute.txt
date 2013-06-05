@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\1.ProgramThatFillsPrintsAMatrix\1.ProgramThatFillsPrintsAMatrix\bin\Debug\1.ProgramThatFillsPrintsAMatrix.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\1.ProgramThatFillsPrintsAMatrix\1.ProgramThatFillsPrintsAMatrix\bin\Debug\1.ProgramThatFillsPrintsAMatrix.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\1.ProgramThatFillsPrintsAMatrix\1.ProgramThatFillsPrintsAMatrix\bin\Debug\1.ProgramThatFillsPrintsAMatrix.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\1.ProgramThatFillsPrintsAMatrix\1.ProgramThatFillsPrintsAMatrix\obj\Debug\1.ProgramThatFillsPrintsAMatrix.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\1.ProgramThatFillsPrintsAMatrix\1.ProgramThatFillsPrintsAMatrix\obj\Debug\1.ProgramThatFillsPrintsAMatrix.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\1.ProgramThatFillsPrintsAMatrix\1.ProgramThatFillsPrintsAMatrix\obj\Debug\1.ProgramThatFillsPrintsAMatrix.pdb

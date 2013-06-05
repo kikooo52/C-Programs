@@ -1,0 +1,12 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\1.StructurePoint3D\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\1.StructurePoint3D\GenericList\obj\Debug\GenericList.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\1.StructurePoint3D\GenericList\obj\Debug\GenericList.pdb
+C:\Users\ognyan.dimitrov.3DSOFT\Dropbox\Ogi (2)\2.Defining-Classes-Part-II\1.StructurePoint3D\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\ognyan.dimitrov.3DSOFT\Dropbox\Ogi (2)\2.Defining-Classes-Part-II\1.StructurePoint3D\GenericList\obj\Debug\GenericList.exe
+C:\Users\ognyan.dimitrov.3DSOFT\Dropbox\Ogi (2)\2.Defining-Classes-Part-II\1.StructurePoint3D\GenericList\obj\Debug\GenericList.pdb
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\2.Defining-Classes-Part-II\1.StructurePoint3D\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\2.Defining-Classes-Part-II\1.StructurePoint3D\GenericList\obj\Debug\GenericList.exe
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\2.Defining-Classes-Part-II\1.StructurePoint3D\GenericList\obj\Debug\GenericList.pdb
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\2.Defining-Classes-Part-II\1.StructurePoint3D\GenericList\obj\Debug\5,6,7.GenericList.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\2.Defining-Classes-Part-II\1.StructurePoint3D\GenericList\bin\Debug\GenericList.exe
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\2.Defining-Classes-Part-II\1.StructurePoint3D\GenericList\bin\Debug\GenericList.pdb

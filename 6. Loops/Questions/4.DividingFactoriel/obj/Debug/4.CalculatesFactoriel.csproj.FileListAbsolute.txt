@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\4.CalculatesFactoriel\bin\Debug\4.CalculatesFactoriel.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\4.CalculatesFactoriel\bin\Debug\4.CalculatesFactoriel.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\4.CalculatesFactoriel\bin\Debug\4.CalculatesFactoriel.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\4.CalculatesFactoriel\obj\Debug\4.CalculatesFactoriel.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\4.CalculatesFactoriel\obj\Debug\4.CalculatesFactoriel.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\Questions\4.CalculatesFactoriel\obj\Debug\4.CalculatesFactoriel.pdb

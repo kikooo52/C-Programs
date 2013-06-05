@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\4.ComparesTwoTextFilesLineByLine\bin\Debug\4.ComparesTwoTextFilesLineByLine.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\4.ComparesTwoTextFilesLineByLine\bin\Debug\4.ComparesTwoTextFilesLineByLine.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\4.ComparesTwoTextFilesLineByLine\bin\Debug\4.ComparesTwoTextFilesLineByLine.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\4.ComparesTwoTextFilesLineByLine\obj\Debug\4.ComparesTwoTextFilesLineByLine.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\4.ComparesTwoTextFilesLineByLine\obj\Debug\4.ComparesTwoTextFilesLineByLine.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\4.ComparesTwoTextFilesLineByLine\obj\Debug\4.ComparesTwoTextFilesLineByLine.pdb

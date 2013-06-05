@@ -1,0 +1,7 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\SlowBuildingStrings\bin\Debug\SlowBuildingStrings.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\SlowBuildingStrings\bin\Debug\SlowBuildingStrings.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\SlowBuildingStrings\obj\Debug\09. Slow Building Strings.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\SlowBuildingStrings\obj\Debug\SlowBuildingStrings.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\SlowBuildingStrings\obj\Debug\SlowBuildingStrings.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\Demo\SlowBuildingStrings\obj\Debug\SlowBuildingStrings.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\Demo\SlowBuildingStrings\obj\Debug\SlowBuildingStrings.pdb

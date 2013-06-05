@@ -1,0 +1,2 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\PrimitiveDataTypesAndVariables\1.five variables\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\PrimitiveDataTypesAndVariables\1.five variables\obj\x86\Debug\ConsoleApplication1.pdb

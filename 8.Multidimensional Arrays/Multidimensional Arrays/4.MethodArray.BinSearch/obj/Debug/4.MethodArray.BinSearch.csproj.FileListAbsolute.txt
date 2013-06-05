@@ -1,0 +1,12 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\2.ProgramThatReadsARectangularMatrix\Test\bin\Debug\Test.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\2.ProgramThatReadsARectangularMatrix\Test\obj\Debug\Test.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\2.ProgramThatReadsARectangularMatrix\Test\obj\Debug\Test.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\2.ProgramThatReadsARectangularMatrix\Test\bin\Debug\Test.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\2.ProgramThatReadsARectangularMatrix\Test\bin\Debug\Test.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\2.ProgramThatReadsARectangularMatrix\Test\obj\Debug\4.MethodArray.BinSearch.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\4.MethodArray.BinSearch\bin\Debug\Test.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\4.MethodArray.BinSearch\obj\Debug\Test.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\4.MethodArray.BinSearch\obj\Debug\Test.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\4.MethodArray.BinSearch\bin\Debug\Test.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\4.MethodArray.BinSearch\bin\Debug\Test.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\8.Multidimensional Arrays\4.MethodArray.BinSearch\obj\Debug\4.MethodArray.BinSearch.csprojResolveAssemblyReference.cache

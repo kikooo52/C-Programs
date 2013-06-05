@@ -1,0 +1,4 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\PositiveNumbers\bin\Debug\PositiveNumbers.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\PositiveNumbers\bin\Debug\PositiveNumbers.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\PositiveNumbers\obj\Debug\PositiveNumbers.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\PositiveNumbers\obj\Debug\PositiveNumbers.pdb

@@ -1,0 +1,15 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\GreatestOfGivenFiveVariables\bin\Debug\GreatestOfGivenFiveVariables.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\GreatestOfGivenFiveVariables\bin\Debug\GreatestOfGivenFiveVariables.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\GreatestOfGivenFiveVariables\bin\Debug\GreatestOfGivenFiveVariables.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\GreatestOfGivenFiveVariables\obj\Debug\7.GreatestOfGivenFiveVariables.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\GreatestOfGivenFiveVariables\obj\Debug\GreatestOfGivenFiveVariables.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\1.IfExaminesTwoIntegerVariables\GreatestOfGivenFiveVariables\obj\Debug\GreatestOfGivenFiveVariables.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\7.GreatestOfGivenFiveVariables\bin\Debug\GreatestOfGivenFiveVariables.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\7.GreatestOfGivenFiveVariables\obj\Debug\GreatestOfGivenFiveVariables.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\7.GreatestOfGivenFiveVariables\obj\Debug\GreatestOfGivenFiveVariables.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\ConditionalStatements\7.GreatestOfGivenFiveVariables\bin\Debug\GreatestOfGivenFiveVariables.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\ConditionalStatements\7.GreatestOfGivenFiveVariables\obj\Debug\GreatestOfGivenFiveVariables.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\ConditionalStatements\7.GreatestOfGivenFiveVariables\obj\Debug\GreatestOfGivenFiveVariables.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\ConditionalStatements\7.GreatestOfGivenFiveVariables\bin\Debug\GreatestOfGivenFiveVariables.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\ConditionalStatements\7.GreatestOfGivenFiveVariables\bin\Debug\GreatestOfGivenFiveVariables.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\5.Conditional Statements\ConditionalStatements\7.GreatestOfGivenFiveVariables\obj\Debug\7.GreatestOfGivenFiveVariables.csprojResolveAssemblyReference.cache

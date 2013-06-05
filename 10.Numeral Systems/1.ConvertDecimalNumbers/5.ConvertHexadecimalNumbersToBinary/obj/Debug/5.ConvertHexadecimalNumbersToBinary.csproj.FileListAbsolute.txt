@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\5.ConvertHexadecimalNumbersToBinary\bin\Debug\5.ConvertHexadecimalNumbersToBinary.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\5.ConvertHexadecimalNumbersToBinary\bin\Debug\5.ConvertHexadecimalNumbersToBinary.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\5.ConvertHexadecimalNumbersToBinary\bin\Debug\5.ConvertHexadecimalNumbersToBinary.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\5.ConvertHexadecimalNumbersToBinary\obj\Debug\5.ConvertHexadecimalNumbersToBinary.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\5.ConvertHexadecimalNumbersToBinary\obj\Debug\5.ConvertHexadecimalNumbersToBinary.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\10.Numeral Systems\1.ConvertDecimalNumbers\5.ConvertHexadecimalNumbersToBinary\obj\Debug\5.ConvertHexadecimalNumbersToBinary.pdb

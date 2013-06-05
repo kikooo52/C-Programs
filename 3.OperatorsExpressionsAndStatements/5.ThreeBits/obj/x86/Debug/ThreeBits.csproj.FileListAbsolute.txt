@@ -1,0 +1,7 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatements\obj\x86\Debug\OperatorsExpressionsAndStatements.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatements\obj\x86\Debug\OperatorsExpressionsAndStatements.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatements\bin\Debug\OperatorsExpressionsAndStatements.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatements\bin\Debug\OperatorsExpressionsAndStatements.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatements\obj\x86\Debug\ThreeBits.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\5.ThreeBits\obj\x86\Debug\OperatorsExpressionsAndStatements.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\3.OperatorsExpressionsAndStatements\5.ThreeBits\obj\x86\Debug\OperatorsExpressionsAndStatements.pdb

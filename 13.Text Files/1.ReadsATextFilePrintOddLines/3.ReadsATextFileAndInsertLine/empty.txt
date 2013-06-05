@@ -1,0 +1,33 @@
+1 using System;
+2 using System.Collections.Generic;
+3 using System.Linq;
+4 using System.Text;
+5 using System.Threading.Tasks;
+6 using System.IO;
+7 
+8 
+9 namespace _3.ReadsATextFileAndInsertLine
+10 {
+11     class ReadsATextFileAndInsertLine
+12     {
+13         static void Main(string[] args)
+14         {
+15             StreamWriter emptyFile = new StreamWriter(@"..\..\empty.txt");
+16             StreamReader readerFile = new StreamReader(@"..\..\ReadsATextFileAndInsertLine.cs");
+17             using (emptyFile)
+18             {
+19                 using (readerFile)
+20                 {
+21                     string lineOfFile;
+22                     int lineNumber = 0;
+23                     while ((lineOfFile = readerFile.ReadLine()) != null)
+24                     {
+25                         emptyFile.WriteLine(++lineNumber + " " + lineOfFile);
+26                     }
+27                 }
+28             }
+29         }
+30     }
+31 }
+32 
+33 

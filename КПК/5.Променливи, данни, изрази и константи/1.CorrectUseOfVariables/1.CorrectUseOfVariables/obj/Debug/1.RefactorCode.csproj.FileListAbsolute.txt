@@ -1,0 +1,3 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\5.Променливи, данни, изрази и константи\1.CorrectUseOfVariables\1.CorrectUseOfVariables\bin\Debug\1.CorrectUseOfVariables.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\5.Променливи, данни, изрази и константи\1.CorrectUseOfVariables\1.CorrectUseOfVariables\obj\Debug\1.CorrectUseOfVariables.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\5.Променливи, данни, изрази и константи\1.CorrectUseOfVariables\1.CorrectUseOfVariables\obj\Debug\1.CorrectUseOfVariables.pdb

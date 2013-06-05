@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="21b705fa-b4b6-42e3-b584-6312202559a2">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>Cohesion-and-Coupling/FileUtils.cs</FileRelativePath>
+        <ProjectRelativePath>Cohesion-and-Coupling/Cohesion-and-Coupling.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>12830739578254121880</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

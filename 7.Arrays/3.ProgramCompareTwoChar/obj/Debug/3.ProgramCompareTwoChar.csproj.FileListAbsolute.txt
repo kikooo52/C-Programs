@@ -1,0 +1,9 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\3.ProgramCompareTwoChar\bin\Debug\3.ProgramCompareTwoChar.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\3.ProgramCompareTwoChar\bin\Debug\3.ProgramCompareTwoChar.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\3.ProgramCompareTwoChar\bin\Debug\3.ProgramCompareTwoChar.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\3.ProgramCompareTwoChar\obj\Debug\3.ProgramCompareTwoChar.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\3.ProgramCompareTwoChar\obj\Debug\3.ProgramCompareTwoChar.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\Arrays\3.ProgramCompareTwoChar\obj\Debug\3.ProgramCompareTwoChar.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\3.ProgramCompareTwoChar\bin\Debug\3.ProgramCompareTwoChar.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\3.ProgramCompareTwoChar\obj\Debug\3.ProgramCompareTwoChar.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\7.Arrays\3.ProgramCompareTwoChar\obj\Debug\3.ProgramCompareTwoChar.pdb

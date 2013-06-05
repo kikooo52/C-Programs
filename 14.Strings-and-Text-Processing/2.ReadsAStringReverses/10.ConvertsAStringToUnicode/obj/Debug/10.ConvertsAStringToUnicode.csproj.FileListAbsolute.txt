@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\10.ConvertsAStringToUnicode\bin\Debug\10.ConvertsAStringToUnicode.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\10.ConvertsAStringToUnicode\bin\Debug\10.ConvertsAStringToUnicode.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\10.ConvertsAStringToUnicode\bin\Debug\10.ConvertsAStringToUnicode.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\10.ConvertsAStringToUnicode\obj\Debug\10.ConvertsAStringToUnicode.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\10.ConvertsAStringToUnicode\obj\Debug\10.ConvertsAStringToUnicode.pdb

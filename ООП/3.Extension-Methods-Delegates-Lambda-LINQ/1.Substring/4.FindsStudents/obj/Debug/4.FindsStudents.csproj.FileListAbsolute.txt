@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\4.FindsStudents\bin\Debug\4.FindsStudents.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\4.FindsStudents\bin\Debug\4.FindsStudents.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\4.FindsStudents\bin\Debug\4.FindsStudents.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\4.FindsStudents\obj\Debug\4.FindsStudents.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\4.FindsStudents\obj\Debug\4.FindsStudents.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\4.FindsStudents\obj\Debug\4.FindsStudents.csprojResolveAssemblyReference.cache

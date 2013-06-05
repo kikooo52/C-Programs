@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\9.ContainingListOfForbiddenWords\bin\Debug\9.ContainingListOfForbiddenWords.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\9.ContainingListOfForbiddenWords\bin\Debug\9.ContainingListOfForbiddenWords.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\9.ContainingListOfForbiddenWords\bin\Debug\9.ContainingListOfForbiddenWords.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\9.ContainingListOfForbiddenWords\obj\Debug\9.ContainingListOfForbiddenWords.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\9.ContainingListOfForbiddenWords\obj\Debug\9.ContainingListOfForbiddenWords.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\9.ContainingListOfForbiddenWords\obj\Debug\9.ContainingListOfForbiddenWords.pdb

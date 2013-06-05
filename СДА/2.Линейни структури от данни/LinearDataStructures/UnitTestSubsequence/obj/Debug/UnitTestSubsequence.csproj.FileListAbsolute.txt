@@ -1,0 +1,7 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\UnitTestSubsequence\obj\Debug\UnitTestSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\UnitTestSubsequence\bin\Debug\UnitTestSubsequence.dll
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\UnitTestSubsequence\bin\Debug\UnitTestSubsequence.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\UnitTestSubsequence\bin\Debug\4.FindsLongestSubsequence.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\UnitTestSubsequence\bin\Debug\4.FindsLongestSubsequence.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\UnitTestSubsequence\obj\Debug\UnitTestSubsequence.dll
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\СДА\2.Линейни структури от данни\LinearDataStructures\UnitTestSubsequence\obj\Debug\UnitTestSubsequence.pdb

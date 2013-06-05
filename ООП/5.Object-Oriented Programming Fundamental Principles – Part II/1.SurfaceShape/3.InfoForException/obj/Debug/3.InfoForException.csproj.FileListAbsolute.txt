@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\1.SurfaceShape\3.InfoForException\bin\Debug\3.InfoForException.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\1.SurfaceShape\3.InfoForException\bin\Debug\3.InfoForException.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\1.SurfaceShape\3.InfoForException\bin\Debug\3.InfoForException.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\1.SurfaceShape\3.InfoForException\obj\Debug\3.InfoForException.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\1.SurfaceShape\3.InfoForException\obj\Debug\3.InfoForException.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\1.SurfaceShape\3.InfoForException\obj\Debug\3.InfoForException.pdb

@@ -1,0 +1,14 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\Simple-Exception-Class\bin\Debug\Simple-Exception-Class.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\Simple-Exception-Class\bin\Debug\Simple-Exception-Class.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\Simple-Exception-Class\bin\Debug\Polymorphism.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\Simple-Exception-Class\bin\Debug\Polymorphism.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\Simple-Exception-Class\obj\Debug\3. Simple-Exception-Class.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\Simple-Exception-Class\obj\Debug\Simple-Exception-Class.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.obj\DEmo\Simple-Exception-Class\obj\Debug\Simple-Exception-Class.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\DEmo\Simple-Exception-Class\obj\Debug\Simple-Exception-Class.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\DEmo\Simple-Exception-Class\obj\Debug\Simple-Exception-Class.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\DEmo\Simple-Exception-Class\bin\Debug\Simple-Exception-Class.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\DEmo\Simple-Exception-Class\bin\Debug\Simple-Exception-Class.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\DEmo\Simple-Exception-Class\bin\Debug\Polymorphism.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\DEmo\Simple-Exception-Class\bin\Debug\Polymorphism.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\DEmo\Simple-Exception-Class\obj\Debug\3. Simple-Exception-Class.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\OptionalParameters\bin\Debug\OptionalParameters.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\OptionalParameters\bin\Debug\OptionalParameters.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\OptionalParameters\obj\x86\Debug\5. OptionalParameters.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\OptionalParameters\obj\x86\Debug\OptionalParameters.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\OptionalParameters\obj\x86\Debug\OptionalParameters.pdb

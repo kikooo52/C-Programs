@@ -1,0 +1,8 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\CodeFormattin\CodeFormattin\bin\Debug\CodeFormattin.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\CodeFormattin\CodeFormattin\obj\Debug\CodeFormattin.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\CodeFormattin\CodeFormattin\bin\Debug\CodeFormattin.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\CodeFormattin\CodeFormattin\bin\Debug\CodeFormattin.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\CodeFormattin\CodeFormattin\bin\Debug\PowerCollections.dll
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\CodeFormattin\CodeFormattin\bin\Debug\PowerCollections.xml
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\CodeFormattin\CodeFormattin\obj\Debug\CodeFormattin.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\CodeFormattin\CodeFormattin\obj\Debug\CodeFormattin.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.GivenTwoIntegerNumbersNandX", "6.GivenTwoIntegerNumbersNandX\6.GivenTwoIntegerNumbersNandX.csproj", "{0AF93688-8C5D-4E6B-A62E-2E755C2990C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.SequenceOfFibonacci", "7.SequenceOfFibonacci\7.SequenceOfFibonacci.csproj", "{851BDDBF-D872-43C1-B944-320BD4A5B159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.GCD", "8.GCD\8.GCD.csproj", "{05FE99AC-34EE-4A5C-B176-CFA3B6252674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AF93688-8C5D-4E6B-A62E-2E755C2990C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF93688-8C5D-4E6B-A62E-2E755C2990C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF93688-8C5D-4E6B-A62E-2E755C2990C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF93688-8C5D-4E6B-A62E-2E755C2990C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{851BDDBF-D872-43C1-B944-320BD4A5B159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851BDDBF-D872-43C1-B944-320BD4A5B159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851BDDBF-D872-43C1-B944-320BD4A5B159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851BDDBF-D872-43C1-B944-320BD4A5B159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05FE99AC-34EE-4A5C-B176-CFA3B6252674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FE99AC-34EE-4A5C-B176-CFA3B6252674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FE99AC-34EE-4A5C-B176-CFA3B6252674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FE99AC-34EE-4A5C-B176-CFA3B6252674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

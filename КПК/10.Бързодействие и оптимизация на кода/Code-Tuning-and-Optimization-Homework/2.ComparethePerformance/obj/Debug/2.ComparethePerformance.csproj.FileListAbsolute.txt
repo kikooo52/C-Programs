@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\10\Code-Tuning-and-Optimization-Homework\2.ComparethePerformance\bin\Debug\_2.ComparethePerformance.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\10\Code-Tuning-and-Optimization-Homework\2.ComparethePerformance\obj\Debug\2.ComparethePerformance.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\10\Code-Tuning-and-Optimization-Homework\2.ComparethePerformance\bin\Debug\_2.ComparethePerformance.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\10\Code-Tuning-and-Optimization-Homework\2.ComparethePerformance\bin\Debug\_2.ComparethePerformance.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\10\Code-Tuning-and-Optimization-Homework\2.ComparethePerformance\obj\Debug\_2.ComparethePerformance.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\КПК\10\Code-Tuning-and-Optimization-Homework\2.ComparethePerformance\obj\Debug\_2.ComparethePerformance.pdb

@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\8.ExtractsFromAGivenText\bin\Debug\8.ExtractsFromAGivenText.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\8.ExtractsFromAGivenText\bin\Debug\8.ExtractsFromAGivenText.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\8.ExtractsFromAGivenText\bin\Debug\8.ExtractsFromAGivenText.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\8.ExtractsFromAGivenText\obj\Debug\8.ExtractsFromAGivenText.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\8.ExtractsFromAGivenText\obj\Debug\8.ExtractsFromAGivenText.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\8.ExtractsFromAGivenText\obj\Debug\8.ExtractsFromAGivenText.pdb

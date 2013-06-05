@@ -1,0 +1,12 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\5.ChangeTheText\bin\Debug\5.ChangeTheText.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\5.ChangeTheText\obj\Debug\5.ChangeTheText.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\5.ChangeTheText\bin\Debug\5.ChangeTheText.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\5.ChangeTheText\bin\Debug\5.ChangeTheText.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\5.ChangeTheText\obj\Debug\5.ChangeTheText.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\2.ReadsAStringReverses\5.ChangeTheText\obj\Debug\5.ChangeTheText.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\5.ChangeTheText\bin\Debug\5.ChangeTheText.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\5.ChangeTheText\obj\Debug\5.ChangeTheText.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\5.ChangeTheText\obj\Debug\5.ChangeTheText.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\5.ChangeTheText\bin\Debug\5.ChangeTheText.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\5.ChangeTheText\bin\Debug\5.ChangeTheText.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\2.ReadsAStringReverses\5.ChangeTheText\obj\Debug\5.ChangeTheText.csprojResolveAssemblyReference.cache

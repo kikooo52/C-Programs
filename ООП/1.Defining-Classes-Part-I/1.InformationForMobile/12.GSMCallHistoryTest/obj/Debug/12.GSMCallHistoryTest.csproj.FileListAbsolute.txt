@@ -1,0 +1,7 @@
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\12.GSMCallHistoryTest\bin\Debug\12.GSMCallHistoryTest.dll
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\12.GSMCallHistoryTest\bin\Debug\12.GSMCallHistoryTest.pdb
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\12.GSMCallHistoryTest\bin\Debug\8.gsmCall.exe
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\12.GSMCallHistoryTest\bin\Debug\8.gsmCall.pdb
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\12.GSMCallHistoryTest\obj\Debug\12.GSMCallHistoryTest.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\12.GSMCallHistoryTest\obj\Debug\12.GSMCallHistoryTest.dll
+C:\Users\kiril.tanushev\Dropbox\Book C Sharp\1.InformationForMobile\12.GSMCallHistoryTest\obj\Debug\12.GSMCallHistoryTest.pdb

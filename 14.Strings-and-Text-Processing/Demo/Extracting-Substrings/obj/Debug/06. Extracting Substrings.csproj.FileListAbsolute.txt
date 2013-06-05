@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Extracting-Substrings\bin\Debug\Extracting-Substrings.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Extracting-Substrings\bin\Debug\Extracting-Substrings.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Extracting-Substrings\obj\Debug\Extracting-Substrings.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Extracting-Substrings\obj\Debug\Extracting-Substrings.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\Demo\Extracting-Substrings\obj\Debug\Extracting-Substrings.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\Demo\Extracting-Substrings\obj\Debug\Extracting-Substrings.pdb

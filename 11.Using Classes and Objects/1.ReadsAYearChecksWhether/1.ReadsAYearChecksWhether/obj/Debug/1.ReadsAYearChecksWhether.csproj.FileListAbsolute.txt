@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\1.ReadsAYearChecksWhether\bin\Debug\1.ReadsAYearChecksWhether.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\1.ReadsAYearChecksWhether\bin\Debug\1.ReadsAYearChecksWhether.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\1.ReadsAYearChecksWhether\bin\Debug\1.ReadsAYearChecksWhether.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\1.ReadsAYearChecksWhether\obj\Debug\1.ReadsAYearChecksWhether.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\1.ReadsAYearChecksWhether\obj\Debug\1.ReadsAYearChecksWhether.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\1.ReadsAYearChecksWhether\obj\Debug\1.ReadsAYearChecksWhether.pdb

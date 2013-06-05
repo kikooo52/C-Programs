@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\3.ReadsATextFileAndInsertLine\bin\Debug\3.ReadsATextFileAndInsertLine.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\3.ReadsATextFileAndInsertLine\bin\Debug\3.ReadsATextFileAndInsertLine.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\3.ReadsATextFileAndInsertLine\bin\Debug\3.ReadsATextFileAndInsertLine.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\3.ReadsATextFileAndInsertLine\obj\Debug\3.ReadsATextFileAndInsertLine.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\13.Text Files\1.ReadsATextFilePrintOddLines\3.ReadsATextFileAndInsertLine\obj\Debug\3.ReadsATextFileAndInsertLine.pdb

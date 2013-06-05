@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Searching-In-String\bin\Debug\Searching-In-String.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Searching-In-String\bin\Debug\Searching-In-String.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Searching-In-String\obj\Debug\Searching-In-String.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14\Demo\Searching-In-String\obj\Debug\Searching-In-String.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\Demo\Searching-In-String\obj\Debug\Searching-In-String.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\14.Strings-and-Text-Processing\Demo\Searching-In-String\obj\Debug\Searching-In-String.pdb

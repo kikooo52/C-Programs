@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\3.CompareFloat\obj\x86\Debug\CompareFloat.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\3.CompareFloat\obj\x86\Debug\CompareFloat.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\3.CompareFloat\bin\Debug\CompareFloat.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\3.CompareFloat\bin\Debug\CompareFloat.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\2.Primitive Data Types and Variables\3.CompareFloat\obj\x86\Debug\3.CompareFloat.csprojResolveAssemblyReference.cache

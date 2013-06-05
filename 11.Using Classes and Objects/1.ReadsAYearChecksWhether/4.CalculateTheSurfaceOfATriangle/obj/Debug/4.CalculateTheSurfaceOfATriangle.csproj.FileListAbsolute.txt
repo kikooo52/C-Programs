@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\4.CalculateTheSurfaceOfATriangle\bin\Debug\4.CalculateTheSurfaceOfATriangle.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\4.CalculateTheSurfaceOfATriangle\bin\Debug\4.CalculateTheSurfaceOfATriangle.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\4.CalculateTheSurfaceOfATriangle\bin\Debug\4.CalculateTheSurfaceOfATriangle.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\4.CalculateTheSurfaceOfATriangle\obj\Debug\4.CalculateTheSurfaceOfATriangle.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\4.CalculateTheSurfaceOfATriangle\obj\Debug\4.CalculateTheSurfaceOfATriangle.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\4.CalculateTheSurfaceOfATriangle\obj\Debug\4.CalculateTheSurfaceOfATriangle.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.RefactorCode", "1.CorrectUseOfVariables\1.RefactorCode.csproj", "{B207BE31-49AC-4AE4-A0CC-C6B0731CF723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.RefactorCode", "2.RefactorCode\2.RefactorCode.csproj", "{1BF5E023-5A2B-4521-954F-8DA9C9576406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B207BE31-49AC-4AE4-A0CC-C6B0731CF723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B207BE31-49AC-4AE4-A0CC-C6B0731CF723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B207BE31-49AC-4AE4-A0CC-C6B0731CF723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B207BE31-49AC-4AE4-A0CC-C6B0731CF723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BF5E023-5A2B-4521-954F-8DA9C9576406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF5E023-5A2B-4521-954F-8DA9C9576406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF5E023-5A2B-4521-954F-8DA9C9576406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF5E023-5A2B-4521-954F-8DA9C9576406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

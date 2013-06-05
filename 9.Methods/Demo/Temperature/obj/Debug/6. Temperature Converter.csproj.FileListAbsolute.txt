@@ -1,0 +1,4 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\Temperature\bin\Debug\Temperature.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\Temperature\bin\Debug\Temperature.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\Temperature\obj\Debug\Temperature.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\9.Methods\Temperature\obj\Debug\Temperature.pdb

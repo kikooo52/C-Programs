@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\looop\looop\bin\Debug\looop.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\looop\looop\bin\Debug\looop.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\looop\looop\bin\Debug\looop.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\looop\looop\obj\Debug\looop.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\6. Loops\looop\looop\obj\Debug\looop.pdb

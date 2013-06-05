@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\1.SurfaceShape\2.BankSystem\bin\Debug\2.BankSystem.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\1.SurfaceShape\2.BankSystem\bin\Debug\2.BankSystem.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\1.SurfaceShape\2.BankSystem\bin\Debug\2.BankSystem.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\1.SurfaceShape\2.BankSystem\obj\Debug\2.BankSystem.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\1.SurfaceShape\2.BankSystem\obj\Debug\2.BankSystem.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\5.Object-Oriented Programming Fundamental Principles – Part II\1.SurfaceShape\2.BankSystem\obj\Debug\2.BankSystem.csprojResolveAssemblyReference.cache

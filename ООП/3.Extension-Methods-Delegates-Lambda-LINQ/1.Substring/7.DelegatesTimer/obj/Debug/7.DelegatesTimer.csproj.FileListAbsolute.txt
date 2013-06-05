@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\7.DelegatesTimer\bin\Debug\7.DelegatesTimer.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\7.DelegatesTimer\bin\Debug\7.DelegatesTimer.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\7.DelegatesTimer\bin\Debug\7.DelegatesTimer.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\7.DelegatesTimer\obj\Debug\7.DelegatesTimer.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\7.DelegatesTimer\obj\Debug\7.DelegatesTimer.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\3.Extension-Methods-Delegates-Lambda-LINQ\1.Substring\7.DelegatesTimer\obj\Debug\7.DelegatesTimer.pdb

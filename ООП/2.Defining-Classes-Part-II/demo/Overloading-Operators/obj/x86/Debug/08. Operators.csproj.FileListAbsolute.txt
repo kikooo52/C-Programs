@@ -1,0 +1,4 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\demo\Overloading-Operators\bin\Debug\Operators.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\demo\Overloading-Operators\bin\Debug\Operators.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\demo\Overloading-Operators\obj\x86\Debug\Operators.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\demo\Overloading-Operators\obj\x86\Debug\Operators.pdb

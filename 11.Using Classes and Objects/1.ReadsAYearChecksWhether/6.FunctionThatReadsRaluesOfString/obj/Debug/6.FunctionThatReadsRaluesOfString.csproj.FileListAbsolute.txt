@@ -1,0 +1,6 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\6.FunctionThatReadsRaluesOfString\bin\Debug\6.FunctionThatReadsRaluesOfString.exe.config
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\6.FunctionThatReadsRaluesOfString\obj\Debug\6.FunctionThatReadsRaluesOfString.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\6.FunctionThatReadsRaluesOfString\bin\Debug\6.FunctionThatReadsRaluesOfString.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\6.FunctionThatReadsRaluesOfString\bin\Debug\6.FunctionThatReadsRaluesOfString.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\6.FunctionThatReadsRaluesOfString\obj\Debug\6.FunctionThatReadsRaluesOfString.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\11.Using Classes and Objects\1.ReadsAYearChecksWhether\6.FunctionThatReadsRaluesOfString\obj\Debug\6.FunctionThatReadsRaluesOfString.pdb

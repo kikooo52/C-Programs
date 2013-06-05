@@ -1,0 +1,4 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\New folder\CSharp-Exam-II-Second-Day-7-Feb-2012-Solutions\Problem 1 Basic Language\bin\Release\Problem 1 Basic Language.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\New folder\CSharp-Exam-II-Second-Day-7-Feb-2012-Solutions\Problem 1 Basic Language\bin\Release\Problem 1 Basic Language.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\New folder\CSharp-Exam-II-Second-Day-7-Feb-2012-Solutions\Problem 1 Basic Language\obj\x86\Release\Problem 1 Basic Language.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\New folder\CSharp-Exam-II-Second-Day-7-Feb-2012-Solutions\Problem 1 Basic Language\obj\x86\Release\Problem 1 Basic Language.pdb

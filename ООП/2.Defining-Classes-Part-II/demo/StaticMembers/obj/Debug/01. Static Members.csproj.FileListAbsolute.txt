@@ -1,0 +1,5 @@
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\demo\StaticMembers\bin\Debug\StaticMembers.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\demo\StaticMembers\bin\Debug\StaticMembers.pdb
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\demo\StaticMembers\obj\Debug\01. Static Members.csprojResolveAssemblyReference.cache
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\demo\StaticMembers\obj\Debug\StaticMembers.exe
+C:\Users\kiril.tanushev\Documents\Kiril.T\Kiril t\ООП\2.Defining-Classes-Part-II\demo\StaticMembers\obj\Debug\StaticMembers.pdb
